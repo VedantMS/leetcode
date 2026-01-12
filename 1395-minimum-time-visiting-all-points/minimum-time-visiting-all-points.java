@@ -12,6 +12,6 @@ class Solution {
 }
 
 /* Chebyshev distance: 
-    The minimum time to go from one point to the next.
-    The maximum of the horizontal and vertical distances.
+    The minimum time to go from one point to the next
+    The maximum of the horizontal and vertical distances
 */
