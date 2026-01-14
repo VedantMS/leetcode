@@ -8,7 +8,10 @@ void dfs(int** isConnected, int isConnectedSize, int *visited, int vertex) {
 }
 int findCircleNum(int** isConnected, int isConnectedSize, int* isConnectedColSize) {
     int provinces = 0;
-    int *visited = (int *)calloc(isConnectedSize, sizeof(int));
+    int visited[isConnectedSize];
+    for(int i = 0; i < isConnectedSize; i++) {
+        visited[i] = 0;
+    }
     for(int i = 0; i < isConnectedSize; i++) {
         if(!visited[i]) {
             provinces++;
