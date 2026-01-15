@@ -1,141 +1,134 @@
-**Foundations → Advanced**
+## Beginner → Advanced Sequence
 
-## Phase 1: Graph Basics (Traversal & Representation)
+**Pedagogically correct progression**
+(Each section assumes mastery of the previous one.)
 
-1. **Find the Town Judge**
-2. **Keys and Rooms**
-3. **All Paths From Source to Target**
-4. **Jump Game III**
+---
+
+## 🟢 PHASE 1: Graph Basics (DFS/BFS, no tricks)
+
+### 🔹 Simple DFS / BFS
+
+1. **Keys and Rooms**
+2. **Find the Town Judge**
+3. **Find if Path Exists in Graph**
+4. **All Paths From Source to Target**
 5. **Graph Valid Tree**
+6. **Is Graph Bipartite?**
 
-👉 Focus on:
-
-* DFS vs BFS
-* Recursion vs iterative
-* Detecting cycles / visited nodes
+📌 *Goal:* adjacency list, visited array, recursion/queue comfort
 
 ---
 
-## Phase 2: Connected Components & Flood Fill (Matrix Graphs)
+## 🟢 PHASE 2: Matrix as Graph (Classic DFS/BFS)
 
-🎯 Goal: Master grid traversal (DFS/BFS on 2D matrices).
+### 🔹 Flood Fill / Connected Components
 
-### Do in This Order
+7. **Number of Islands**
+8. **Max Area of Island**
+9. **Number of Enclaves**
+10. **Number of Closed Islands**
+11. **Pacific Atlantic Water Flow**
 
-6. **Number of Islands**
-7. **Max Area of Island**
-8. **Number of Enclaves**
-9. **Number of Closed Islands**
-10. **Pacific Atlantic Water Flow**
-
-👉 These problems are variations of:
-
-* Multi-source BFS
-* Boundary-based traversal
-* Counting connected components
+📌 *Goal:* 2D → graph mapping, boundary handling
 
 ---
 
-## Phase 3: BFS Shortest Path Patterns
+## 🟢 PHASE 3: BFS Shortest Path (Single State)
 
-🎯 Goal: Recognize shortest-path problems in unweighted graphs.
+### 🔹 Level-order BFS
 
-### Recommended Order
-
-11. **Nearest Exit from Entrance in Maze**
-12. **01 Matrix**
+12. **Nearest Exit from Entrance in Maze**
 13. **Shortest Path in Binary Matrix**
-14. **Minimum Genetic Mutation**
-15. **Word Ladder** *(Hard – do last in this phase)*
+14. **01 Matrix**
+15. **Jump Game III**
+16. **Minimum Genetic Mutation**
 
-👉 Core ideas:
-
-* Level-order BFS
-* Queue states
-* State pruning using visited sets
+📌 *Goal:* shortest path, distance array, BFS layering
 
 ---
 
-## Phase 4: Advanced BFS & State Space
+## 🟡 PHASE 4: Tree / Directed Graph Traversal
 
-🎯 Goal: BFS with additional constraints or state encoding.
+### 🔹 Structured graphs
 
-16. **Shortest Bridge**
-17. **Shortest Path with Alternating Colors**
-18. **All Nodes Distance K in Binary Tree**
-19. **Shortest Path to Get All Keys** *(Hard)*
+17. **All Nodes Distance K in Binary Tree**
+18. **Time Needed to Inform All Employees**
+19. **Reorder Routes to Make All Paths Lead to the City Zero**
+20. **Number of Provinces**
 
-👉 Learn:
-
-* BFS with `(node, state)`
-* Bitmasking
-* Multiple dimensions of visited
+📌 *Goal:* rooted traversal, parent-child reasoning
 
 ---
 
-## Phase 5: Directed Graphs & Topological Sort
+## 🟡 PHASE 5: Advanced BFS (Multi-state)
 
-🎯 Goal: Dependency resolution and cycle detection.
+### 🔹 State-augmented BFS
 
-### Order Matters Here
+21. **Shortest Path with Alternating Colors**
+22. **Word Ladder**
+23. **Shortest Bridge**
 
-20. **Course Schedule**
-21. **Course Schedule II**
-22. **Alien Dictionary**
-23. **Sort Items by Groups Respecting Dependencies**
-24. **Largest Color Value in a Directed Graph**
-
-👉 Key skills:
-
-* Kahn’s algorithm
-* DFS topo sort
-* Cycle detection in DAGs
+📌 *Goal:* `(node, state)` BFS, visited state tracking
 
 ---
 
-## Phase 6: Union-Find (Disjoint Set Union)
+## 🟠 PHASE 6: Graph Properties & Theory
 
-🎯 Goal: Efficient grouping and connectivity checks.
+### 🔹 Degree / structure analysis
 
-25. **Satisfiability of Equality Equations**
-26. **Lexicographically Smallest Equivalent String**
-27. **Accounts Merge**
-28. **Similar String Groups** *(Hard)*
+24. **Minimum Number of Vertices to Reach All Nodes**
+25. **Maximal Network Rank**
+26. **Find Eventual Safe States**
 
-👉 Master:
-
-* Path compression
-* Union by rank
-* Component merging
+📌 *Goal:* indegree/outdegree, reverse graphs
 
 ---
 
-## Phase 7: Graph Theory & Network Problems
+## 🟠 PHASE 7: Union Find (DSU)
 
-🎯 Goal: Higher-level graph reasoning.
+### 🔹 Disjoint sets
 
-29. **Minimum Number of Vertices to Reach All Nodes**
-30. **Maximal Network Rank**
-31. **Is Graph Bipartite?**
-32. **Find Eventual Safe States**
-33. **Reorder Routes to Make All Paths Lead to the City Zero**
-34. **Time Needed to Inform All Employees**
+27. **Satisfiability of Equality Equations**
+28. **Lexicographically Smallest Equivalent String**
+29. **Accounts Merge**
+30. **Similar String Groups**
 
----
-
-## Phase 8: Advanced Graph Algorithms (Hard)
-
-🎯 Goal: Industry-level graph skills.
-
-35. **Critical Connections in a Network** *(Tarjan’s Algorithm)*
+📌 *Goal:* DSU with path compression, graph equivalence
 
 ---
 
-## How to Practice Effectively
+## 🔵 PHASE 8: Topological Sort (DAG Mastery)
 
-✅ For each problem:
+### 🔹 Kahn + DFS topo
 
-* Solve once with **DFS**
-* Ask: *Could BFS also work?*
-* Identify the **pattern** (flood fill, shortest path, topo, DSU)
+31. **Course Schedule**
+32. **Course Schedule II**
+33. **Alien Dictionary**
+34. **Sort Items by Groups Respecting Dependencies**
+35. **Largest Color Value in a Directed Graph**
+
+📌 *Goal:* cycle detection, DP on DAGs
+
+---
+
+## 🔴 PHASE 9: Graph Algorithms (Hard Theory)
+
+### 🔹 Low-link / SCC
+
+36. **Critical Connections in a Network**
+
+📌 *Goal:* Tarjan’s algorithm, bridges, articulation points
+
+---
+
+| Stage     | What you gain                   |
+| --------- | ------------------------------- |
+| Phase 1–2 | Graph intuition                 |
+| Phase 3   | BFS mastery                     |
+| Phase 4–5 | State modeling                  |
+| Phase 6   | Graph reasoning                 |
+| Phase 7   | DSU abstraction                 |
+| Phase 8   | DAG theory                      |
+| Phase 9   | Research-level graph algorithms |
 
