@@ -5,12 +5,13 @@ class Solution {
         int j = nums.length - 1;
         int count = 0;
         while(i < j) {
-            if(nums[i] + nums[j] == k) {
+            int sum = nums[i] + nums[j];
+            if(sum == k) {
                 count++;
                 i++;
                 j--;
             }
-           else if(nums[i] + nums[j] < k) {
+           else if(sum < k) {
                 i++;
            }
            else {
