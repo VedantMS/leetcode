@@ -3,41 +3,38 @@
  * The sizes of the arrays are returned as *returnColumnSizes array.
  * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
  */
-#define MAXN 15
+int **result;
+int *rcs;
+int rs;
+int stack[15];
+int top;
 
-int** result;
-int* returnColumnSizes;
-int returnSize;
-int path[MAXN];
-int pathSize;
+void  dfs(int** graph, int graphSize, int* graphColSize, int vertex) {
+    stack[++top] = vertex;
+    if(vertex == graphSize - 1) {
+        int len = top + 1;
+        result[rs] = (int *)malloc(len * sizeof(int));
+        for(int i = 0; i < len; i++) {
+            result[rs][i] = stack[i];
+        }
+        rcs[rs++] = len;
+    }
+    else {
 
-void dfs(int** graph, int graphSize, int* graphColSize, int node) {
-    path[pathSize++] = node;
-
-    if (node == graphSize - 1) {
-        result[returnSize] = (int*)malloc(pathSize * sizeof(int));
-        for (int i = 0; i < pathSize; i++)
-            result[returnSize][i] = path[i];
-        returnColumnSizes[returnSize++] = pathSize;
-    } else {
-        for (int i = 0; i < graphColSize[node]; i++) {
-            dfs(graph, graphSize, graphColSize, graph[node][i]);
+        for(int i = 0; i < graphColSize[vertex]; i++) {
+            dfs(graph, graphSize, graphColSize, graph[vertex][i]);
         }
     }
-    pathSize--;
+    top--;
 }
 
-int** allPathsSourceTarget(int** graph, int graphSize, int* graphColSize,
-                           int* returnSizeOut, int** returnColumnSizesOut) {
-
-    result = (int**)malloc(10000 * sizeof(int*));
-    returnColumnSizes = (int*)malloc(10000 * sizeof(int));
-    returnSize = 0;
-    pathSize = 0;
-
+int** allPathsSourceTarget(int** graph, int graphSize, int* graphColSize, int* returnSize, int** returnColumnSizes) {
+    result = (int **)malloc(pow(2, 13) * sizeof(int*));
+    rcs = (int *)malloc(pow(2, 13) * sizeof(int));
+    rs = 0;
+    top = -1;
     dfs(graph, graphSize, graphColSize, 0);
-
-    *returnSizeOut = returnSize;
-    *returnColumnSizesOut = returnColumnSizes;
+    *returnSize = rs;
+    *returnColumnSizes = rcs;
     return result;
 }
