@@ -3,34 +3,41 @@
  * The sizes of the arrays are returned as *returnColumnSizes array.
  * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
  */
-int** dfs(int **graph, int graphSize, int *graphColSize, int *stack, int *top, int* returnSize, int** returnColumnSizes, int **arr, int vertex) {
-    stack[++(*top)] = vertex;
+#define MAXN 15
 
-    if(stack[*top] == graphSize - 1) {
-        (*returnSize)++;
-        
-        arr = (int**)realloc(arr, *returnSize * sizeof(int *));
-        *returnColumnSizes = (int*)realloc(*returnColumnSizes, (*returnSize) * sizeof(int *));
-        (*returnColumnSizes)[*returnSize - 1] = *top + 1;
-        
-        arr[*returnSize - 1] = (int *)malloc((*top + 1) * sizeof(int));
-        for(int i = 0; i <= *top; i++) {
-            arr[*returnSize - 1][i] = stack[i];
+int** result;
+int* returnColumnSizes;
+int returnSize;
+int path[MAXN];
+int pathSize;
+
+void dfs(int** graph, int graphSize, int* graphColSize, int node) {
+    path[pathSize++] = node;
+
+    if (node == graphSize - 1) {
+        result[returnSize] = (int*)malloc(pathSize * sizeof(int));
+        for (int i = 0; i < pathSize; i++)
+            result[returnSize][i] = path[i];
+        returnColumnSizes[returnSize++] = pathSize;
+    } else {
+        for (int i = 0; i < graphColSize[node]; i++) {
+            dfs(graph, graphSize, graphColSize, graph[node][i]);
         }
     }
-    else {
-        for(int i = 0; i < graphColSize[vertex]; i++) {
-        arr = dfs(graph, graphSize, graphColSize, stack, top, returnSize, returnColumnSizes, arr, graph[vertex][i]);
-        }
-    }
-    (*top)--;
-    return arr;
- }
-int** allPathsSourceTarget(int** graph, int graphSize, int* graphColSize, int* returnSize, int** returnColumnSizes) {
-    int **arr = NULL;
-    *returnColumnSizes = NULL;
-    int stack[graphSize], top = -1;
-    *returnSize = 0;
-    arr = dfs(graph, graphSize, graphColSize, stack, &top, returnSize, returnColumnSizes, arr, 0);
-    return arr;
+    pathSize--;
+}
+
+int** allPathsSourceTarget(int** graph, int graphSize, int* graphColSize,
+                           int* returnSizeOut, int** returnColumnSizesOut) {
+
+    result = (int**)malloc(10000 * sizeof(int*));
+    returnColumnSizes = (int*)malloc(10000 * sizeof(int));
+    returnSize = 0;
+    pathSize = 0;
+
+    dfs(graph, graphSize, graphColSize, 0);
+
+    *returnSizeOut = returnSize;
+    *returnColumnSizesOut = returnColumnSizes;
+    return result;
 }
