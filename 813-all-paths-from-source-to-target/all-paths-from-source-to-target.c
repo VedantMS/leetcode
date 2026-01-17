@@ -29,7 +29,7 @@ void  dfs(int** graph, int graphSize, int* graphColSize, int vertex) {
 }
 
 int** allPathsSourceTarget(int** graph, int graphSize, int* graphColSize, int* returnSize, int** returnColumnSizes) {
-    int maximum_possible_paths = pow(2, 15);
+    int maximum_possible_paths = pow(2, 15 - 2);
     result = (int **)malloc(maximum_possible_paths * sizeof(int*));
     rcs = (int *)malloc(maximum_possible_paths * sizeof(int));
     rs = 0;
