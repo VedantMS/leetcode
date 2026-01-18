@@ -13,7 +13,6 @@ class Solution {
             temp = sum / k;
             avg = Math.max(avg, temp);
         }
-        System.gc();
         return avg;
     }
 }
