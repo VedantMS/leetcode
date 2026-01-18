@@ -18,11 +18,12 @@ bool isBipartite(int** graph, int graphSize, int* graphColSize) {
     for(int i = 0; i < graphSize; i++) {
         color[i] = 0;
     }
-    bool ans = dfs(graph, graphSize, graphColSize, color, 1, 0);
     for(int i = 0; i < graphSize; i++) {
         if(!color[i]) {
-            ans = ans && dfs(graph, graphSize, graphColSize, color, 1, i);
+            if(!dfs(graph, graphSize, graphColSize, color, 1, i)) {
+                return 0;
+            }
         }
     }
-    return ans;
+    return 1;
 }
