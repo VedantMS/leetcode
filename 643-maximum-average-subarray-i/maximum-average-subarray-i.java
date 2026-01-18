@@ -11,7 +11,6 @@ class Solution {
             temp += nums[j];
             sum = Math.max(sum, temp);
         }
-        System.gc();
         return sum / k;
     }
 }
