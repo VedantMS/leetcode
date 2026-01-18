@@ -11,6 +11,7 @@ class Solution {
             temp += nums[j];
             sum = Math.max(sum, temp);
         }
-        return sum / k;
+        double avg = sum / k;
+        return avg;
     }
 }
