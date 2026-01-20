@@ -12,7 +12,7 @@ void dfs(char **grid, int rows, int cols, int r, int c) {
 int numIslands(char** grid, int gridSize, int* gridColSize) {
     int count = 0;
     int rows = gridSize;
-    int cols = gridColSize[0];
+    int cols = *gridColSize;
     for(int i = 0; i < rows; i++) {
         for(int j = 0; j < cols; j++) {
             if(grid[i][j] == '1') {
