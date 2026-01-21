@@ -1,11 +1,9 @@
 class Solution {
     public int longestSubarray(int[] nums) {
-        int count = 0;
         int start = 0;
         int no_of_zeros = 0;
         int ans = 0;
         for(int end = 0; end < nums.length; end++) {
-            count++;
             if(nums[end] == 0) {
                 no_of_zeros++;
             }
@@ -14,11 +12,10 @@ class Solution {
                     if(nums[start++] == 0) {
                         no_of_zeros--;
                     }
-                    count--;
                 }
             }
-            ans = Math.max(ans, count);
+            ans = Math.max(ans, end - start + 1 - no_of_zeros);
         }
-        return --ans;
+        return ans == nums.length ? --ans : ans;
     }
 }
