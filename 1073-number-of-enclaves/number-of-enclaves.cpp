@@ -1,7 +1,7 @@
 class Solution {
 public:
     int flag;
-    int cells;
+    int count;
     void dfs(vector<vector<int>> &grid, int r, int c) {
         int rows = grid.size();
         int cols = grid[0].size();
@@ -13,7 +13,7 @@ public:
             return;
         }
         grid[r][c] = 0;
-        cells++;
+        count++;
         dfs(grid, r, c - 1);
         dfs(grid, r, c + 1);
         dfs(grid, r - 1, c);
@@ -27,10 +27,10 @@ public:
             for(int j = 0; j < cols; j++) {
                 if(grid[i][j] == 1) {
                     flag = 0;
-                    cells = 0;
+                    count = 0;
                     dfs(grid, i, j);
-                    if(flag != 1) {
-                        ans += cells;
+                    if(!flag) {
+                        ans += count;
                     }
                 }
             }
