@@ -22,11 +22,8 @@ public:
         vector<vector<bool>> pacific(rows, vector<bool>(cols, false));
         vector<vector<bool>> atlantic(rows, vector<bool>(cols, false));
         
-        for(int i = 0; i < cols; i++)   dfs(heights, pacific, 0, i);
-        for(int i = 0; i < rows; i++)   dfs(heights, pacific, i, 0);
-
-        for(int i = 0; i < rows; i++)   dfs(heights, atlantic, i, cols - 1);
-        for(int i = 0; i < cols; i++)   dfs(heights, atlantic, rows - 1, i);
+        for(int i = 0; i < cols; i++)   dfs(heights, pacific, 0, i), dfs(heights, atlantic, rows - 1, i);
+        for(int i = 0; i < rows; i++)   dfs(heights, pacific, i, 0), dfs(heights, atlantic, i, cols - 1);
 
         for(int i = 0; i < rows; i++) {
             for(int j = 0; j < cols; j++) {
