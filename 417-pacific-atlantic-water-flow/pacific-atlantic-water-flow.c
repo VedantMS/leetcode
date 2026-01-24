@@ -57,5 +57,9 @@ int** pacificAtlantic(int** heights, int heightsSize, int* heightsColSize, int* 
         }
     }
 
+    free(pacific);
+    free(atlantic);
+    free(res);
+    
     return result;
 }
