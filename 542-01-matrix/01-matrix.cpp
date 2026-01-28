@@ -5,15 +5,12 @@ public:
         int cols = mat[0].size();
         vector<vector<int>> result(rows, vector<int>(cols, -1));
 
-        int dr[] = {-1, 1, 0, 0};
-        int dc[] = {0, 0, -1, 1};
-
-        queue<pair<int, int>> q;
-
         if(rows == 1 && cols == 1) {
             result[0][0] = 0;
             return result;
         }
+
+        queue<pair<int, int>> q;
 
         for(int i = 0; i < rows; i++) {
             for(int j = 0; j < cols; j++) {
@@ -23,6 +20,9 @@ public:
                 }
             }
         }
+
+        int dr[] = {-1, 1, 0, 0};
+        int dc[] = {0, 0, -1, 1};
 
         while(!q.empty()) {
             int level = q.size();
