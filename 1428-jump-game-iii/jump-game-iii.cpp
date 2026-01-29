@@ -8,8 +8,6 @@ public:
         q.push(start);
     
         while(!q.empty()) {
-            int level = q.size();
-            for(int i = 0; i < level; i++) {
             int pos = q.front();
             q.pop();
 
@@ -27,7 +25,6 @@ public:
                 }
                 q.push(pos - arr[pos]);
                 visited[pos - arr[pos]] = true;
-            }
             }
         }
         return false;
