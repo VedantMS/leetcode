@@ -8,26 +8,23 @@ public:
         q.push(start);
     
         while(!q.empty()) {
-            int level = q.size();
-            for(int i = 0; i < level; i++) {
-                int pos = q.front();
-                q.pop();
+            int pos = q.front();
+            q.pop();
 
-                if(pos + arr[pos] < n && !visited[pos + arr[pos]]) {
-                    if(arr[pos + arr[pos]] == 0) {
-                        return true;
-                    }
-                    q.push(pos + arr[pos]);
-                    visited[pos + arr[pos]] = true;
+            if(pos + arr[pos] < n && !visited[pos + arr[pos]]) {
+                if(arr[pos + arr[pos]] == 0) {
+                    return true;
                 }
-                
-                if(pos - arr[pos] >= 0 && !visited[pos - arr[pos]]) {
-                    if(arr[pos - arr[pos]] == 0) {
-                        return true;
-                    }
-                    q.push(pos - arr[pos]);
-                    visited[pos - arr[pos]] = true;
+                q.push(pos + arr[pos]);
+                visited[pos + arr[pos]] = true;
+            }
+
+            if(pos - arr[pos] >= 0 && !visited[pos - arr[pos]]) {
+                if(arr[pos - arr[pos]] == 0) {
+                    return true;
                 }
+                q.push(pos - arr[pos]);
+                visited[pos - arr[pos]] = true;
             }
         }
         return false;
