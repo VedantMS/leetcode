@@ -1,4 +1,4 @@
-int minMutation(char * startGene, char * endGene, char ** bank, int bankSize) {
+int minMutation(char* startGene, char* endGene, char** bank, int bankSize) {
     bool endInBank = false;
     for (int i = 0; i < bankSize; i++) {
         if (strcmp(bank[i], endGene) == 0) {
