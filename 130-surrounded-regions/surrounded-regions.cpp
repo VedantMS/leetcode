@@ -1,6 +1,5 @@
 class Solution {
 public:
-    char symbol;
     void dfs(vector<vector<char>>& board, int r, int c) {
         board[r][c] = 'A';
 
@@ -38,7 +37,6 @@ public:
             i++;
         }
 
-        symbol = 'X';
         for(i = 1; i < rows - 1; i++) {
             for(j = 1; j < cols - 1; j++) {
                 if(board[i][j] == 'O') {
