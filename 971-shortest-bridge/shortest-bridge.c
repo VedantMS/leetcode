@@ -1,11 +1,8 @@
-int **queue;
-int front, rear;
-
-void island(int** grid, int n, int r, int c) {
+void island(int** grid, int (*queue)[2], int *rear, int n, int r, int c) {
     grid[r][c] = 2;
-    queue[rear][0] = r;
-    queue[rear][1] = c;
-    rear++;
+    queue[(*rear)][0] = r;
+    queue[(*rear)][1] = c;
+    (*rear)++;
 
     int dr[] = {-1, 1, 0, 0};
     int dc[] = {0, 0, -1, 1};
@@ -15,7 +12,7 @@ void island(int** grid, int n, int r, int c) {
         int nc = c + dc[i];
         
         if(nr < n && nr >= 0 && nc < n && nc >= 0 && grid[nr][nc] == 1) {
-            island(grid, n, nr, nc);
+            island(grid, queue, rear, n, nr, nc);
         }
     }
 }
@@ -24,18 +21,15 @@ int shortestBridge(int** grid, int gridSize, int* gridColSize) {
     int n = gridSize;
     int flips = 0;
 
-    queue = (int **)malloc(n * n * sizeof(int *));
-    for(int  i = 0; i < n * n; i++) {
-        queue[i] = (int *)malloc(2 * sizeof(int));
-    }
-    front = 0;
-    rear = 0;
+    int queue[n * n][2];
+    int front = 0;
+    int rear = 0;
 
     bool flag = 0;
     for(int i = 0; i < n && !flag; i++) {
         for(int j = 0; j < n && !flag; j++) {
             if(grid[i][j] == 1) {
-                island(grid, n, i, j);
+                island(grid, queue, &rear, n, i, j);
                 flag = 1;
             }
         }
