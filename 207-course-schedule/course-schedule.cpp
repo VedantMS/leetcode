@@ -11,12 +11,12 @@ public:
             indegree[v]++;
         }
 
-        int count = 0;
+        int ans = 0;
         queue<int> q;
         for(int i = 0; i < numCourses; i++) {
             if(indegree[i] == 0) {
                 q.push(i);
-                count++;
+                ans++;
             }
         }
 
@@ -27,11 +27,11 @@ public:
                 indegree[v]--;
                 if(indegree[v] == 0) {
                     q.push(v);
-                    count++;
+                    ans++;
                 }
             }
         }
 
-        return count == numCourses;
+        return ans == numCourses;
     }
 };
