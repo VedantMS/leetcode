@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        int edges = prerequisites.size();
         vector<int> indegree(numCourses, 0);
         vector<vector<int>> adj(numCourses);
         
@@ -12,13 +11,12 @@ public:
             indegree[v]++;
         }
 
+        int count = 0;
         queue<int> q;
-        vector<bool> visited(numCourses, false);
-        
         for(int i = 0; i < numCourses; i++) {
             if(indegree[i] == 0) {
                 q.push(i);
-                visited[i] = true;
+                count++;
             }
         }
 
@@ -27,21 +25,13 @@ public:
             q.pop();
             for(int v : adj[u]) {
                 indegree[v]--;
-            }
-            for(int i = 0; i < numCourses; i++) {
-                if(indegree[i] == 0 && !visited[i]) {
-                    q.push(i);
-                    visited[i] = true;
+                if(indegree[v] == 0) {
+                    q.push(v);
+                    count++;
                 }
             }
         }
 
-        for(bool ans : visited) {
-            if(!ans) {
-                return false;
-            }
-        }
-
-        return true;
+        return count == numCourses;
     }
 };
