@@ -132,3 +132,23 @@
 | Phase 8   | DAG theory                      |
 | Phase 9   | Research-level graph algorithms |
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/VedantMS/leetcode/tree/master/0210-course-schedule-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/VedantMS/leetcode/tree/master/0210-course-schedule-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/VedantMS/leetcode/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/VedantMS/leetcode/tree/master/0210-course-schedule-ii) |
+<!---LeetCode Topics End-->
