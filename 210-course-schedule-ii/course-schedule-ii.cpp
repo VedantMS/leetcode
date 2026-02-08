@@ -10,31 +10,26 @@ public:
             indegree[v]++;
         }
 
-        int total = 0;
-        queue<int> q;
         vector<int> ans;
         for(int i = 0; i < numCourses; i++) {
             if(indegree[i] == 0) {
-                q.push(i);
                 ans.push_back(i);
-                total++;
             }
         }
 
-        while(!q.empty()) {
-            int u = q.front();
-            q.pop();
+        int head = 0;
+        while(head < ans.size()) {
+            int u = ans[head];
+            head++;
 
             for(int v : adj[u]) {
                 indegree[v]--;
                 if(indegree[v] == 0) {
-                    q.push(v);
                     ans.push_back(v);
-                    total++;
                 }
             }
         }
 
-        return total == numCourses ? ans : vector<int>();
+        return ans.size() == numCourses ? ans : vector<int>();
     }
 };
