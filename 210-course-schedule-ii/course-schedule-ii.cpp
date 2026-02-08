@@ -3,7 +3,7 @@ public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(numCourses);
         vector<int> indegree(numCourses, 0);
-        for(auto edge : prerequisites) {
+        for(auto &edge : prerequisites) {
             int u = edge[1];
             int v = edge[0];
             adj[u].push_back(v);
