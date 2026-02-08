@@ -131,36 +131,3 @@
 | Phase 7   | DSU abstraction                 |
 | Phase 8   | DAG theory                      |
 | Phase 9   | Research-level graph algorithms |
-
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Depth-First Search
-|  |
-| ------- |
-| [0210-course-schedule-ii](https://github.com/VedantMS/leetcode/tree/master/0210-course-schedule-ii) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0210-course-schedule-ii](https://github.com/VedantMS/leetcode/tree/master/0210-course-schedule-ii) |
-## Graph Theory
-|  |
-| ------- |
-| [0210-course-schedule-ii](https://github.com/VedantMS/leetcode/tree/master/0210-course-schedule-ii) |
-## Topological Sort
-|  |
-| ------- |
-| [0210-course-schedule-ii](https://github.com/VedantMS/leetcode/tree/master/0210-course-schedule-ii) |
-## Tree
-|  |
-| ------- |
-| [0700-search-in-a-binary-search-tree](https://github.com/VedantMS/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0700-search-in-a-binary-search-tree](https://github.com/VedantMS/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0700-search-in-a-binary-search-tree](https://github.com/VedantMS/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
-<!---LeetCode Topics End-->
