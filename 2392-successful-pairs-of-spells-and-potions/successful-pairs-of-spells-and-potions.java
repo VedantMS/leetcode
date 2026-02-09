@@ -8,7 +8,6 @@ class Solution {
         int[] pairs = new int[n];
         for(int i = 0; i < n; i++) {
             int spell = spells[i];
-            pairs[i] = 0;
             int left = 0, right = m - 1;
             while(left <= right) {
                 int mid = left + (right - left) / 2;
