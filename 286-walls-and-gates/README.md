@@ -1,48 +1,45 @@
-<!DOCTYPE html><html lang="en" class="dark-theme" data-critters-container><head>
-    <meta charset="utf-8">
-    <title>Islands and Treasure - NeetCode</title>
-    <meta name="description" content="Leetcode 286. Walls And Gates
+<h2><a href="https://leetcode.com/problems/walls-and-gates">Walls And Gates</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />
+<hr><p>You are given an <code>m x n</code> grid <code>rooms</code> initialized with these three possible values:</p>
 
-You are given a $m \times n$ 2D `grid` initialized with these three possible values:
+<ul>
+<li><code>-1</code>: A wall or an obstacle.</li>
+<li><code>0</code>: A gate.</li>
+<li><code>INF</code>: Infinity means an empty room. We use the value <code>2<sup>31</sup> - 1 = 2147483647</code> to represent <code>INF</code>.</li>
+</ul>
 
-1. `-1` - A water cell that *can not* be traversed.
-2. `0` - A treasure chest.
-3. `INF` - A land cell that *can* be traversed. We use the integer `2^31 - 1 = 2147483647` to represent `INF`.
+<p>Fill each empty room with the distance to its <em>nearest gate</em>. If it is impossible to reach a gate, it should be filled with <code>INF</code>.</p>
 
-Fill each land cell with the distance to its nearest treasure chest. If a land cell cannot reach a treasure chest then the value should remain `INF`.
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-Assume the grid can only be traversed up, down, left, or right.
-
-Modify the `grid` **in-place**.
-
-**Example 1:**
-
-```java
-Input: [
-  [2147483647,-1,0,2147483647],
-  [2147483647,2147483647,2147483647,-1],
-  [2147483647,-1,2147483647,-1],
-  [0,-1,2147483647,2147483647]
+<pre>
+<strong>Input:</strong> grid = [
+[2147483647,-1,0,2147483647],
+[2147483647,2147483647,2147483647,-1],
+[2147483647,-1,2147483647,-1],
+[0,-1,2147483647,2147483647]
 ]
-
-Output: [
-  [3,-1,0,1],
-  [2,2,1,-1],
-  [1,-1,2,-1],
-  [0,-1,3,4]
+<strong>Output:</strong> [
+[3,-1,0,1],
+[2,2,1,-1],
+[1,-1,2,-1],
+[0,-1,3,4]
 ]
-```
+</pre>
 
-**Example 2:**
+<p><strong class="example">Example 2:</strong></p>
 
-```java
-Input: [
-  [0,-1],
-  [2147483647,2147483647]
-]
+<pre>
+<strong>Input:</strong> grid = [[0,-1],[2147483647,2147483647]]
+<strong>Output:</strong> [[0,-1],[1,2]]
+</pre>
 
-Output: [
-  [0,-1],
-  [1,2]
-]
-```
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+<li><code>m == grid.length</code></li>
+<li><code>n == grid[i].length</code></li>
+<li><code>1 &lt;= m, n &lt;= 250</code></li>
+<li><code>grid[i][j]</code> is <code>-1</code>, <code>0</code>, or <code>2<sup>31</sup> - 1</code>.</li>
+</ul>
