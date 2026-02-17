@@ -11,14 +11,12 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
 <pre>
 <strong>Input:</strong> grid = [[2147483647,-1,0,2147483647], [2147483647,2147483647,2147483647,-1], [2147483647,-1,2147483647,-1], [0,-1,2147483647,2147483647]]
 <strong>Output:</strong> [[3,-1,0,1], [2,2,1,-1], [1,-1,2,-1], [0,-1,3,4]]
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-
 <pre>
 <strong>Input:</strong> grid = [[0,-1],[2147483647,2147483647]]
 <strong>Output:</strong> [[0,-1],[1,2]]
