@@ -13,18 +13,8 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> grid = [
-[2147483647,-1,0,2147483647],
-[2147483647,2147483647,2147483647,-1],
-[2147483647,-1,2147483647,-1],
-[0,-1,2147483647,2147483647]
-]
-<strong>Output:</strong> [
-[3,-1,0,1],
-[2,2,1,-1],
-[1,-1,2,-1],
-[0,-1,3,4]
-]
+<strong>Input:</strong> grid = [[2147483647,-1,0,2147483647], [2147483647,2147483647,2147483647,-1], [2147483647,-1,2147483647,-1], [0,-1,2147483647,2147483647]]
+<strong>Output:</strong> [[3,-1,0,1], [2,2,1,-1], [1,-1,2,-1], [0,-1,3,4]]
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
@@ -40,6 +30,6 @@
 <ul>
 <li><code>m == grid.length</code></li>
 <li><code>n == grid[i].length</code></li>
-<li><code>1 &lt;= m, n &lt;= 250</code></li>
+<li><code>1 &lt;= m, n &lt;= 100</code></li>
 <li><code>grid[i][j]</code> is <code>-1</code>, <code>0</code>, or <code>2<sup>31</sup> - 1</code>.</li>
 </ul>
