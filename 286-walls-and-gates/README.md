@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/walls-and-gates">Walls And Gates</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />
+<h2><a href="https://leetcode.com/problems/walls-and-gates">Walls and Gates</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />
 <hr><p>You are given an <code>m x n</code> grid <code>rooms</code> initialized with these three possible values:</p>
 
 <ul>
