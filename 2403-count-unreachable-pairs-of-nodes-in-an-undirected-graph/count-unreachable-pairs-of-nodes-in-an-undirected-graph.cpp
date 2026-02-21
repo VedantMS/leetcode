@@ -1,5 +1,18 @@
 class Solution {
 public:
+    int dfs(vector<vector<int>> &adj, vector<bool> &visited, int u) {
+        visited[u] = true;
+
+        int compCount = 1;
+        for(int v : adj[u]) {
+            if(!visited[v]) {
+                compCount += dfs(adj, visited, v);
+            }
+        }
+
+        return compCount;
+    }
+
     long long countPairs(int n, vector<vector<int>>& edges) {
         vector<vector<int>> adj(n);
         for(int i = 0; i < edges.size(); i++) {
@@ -13,23 +26,7 @@ public:
         
         for(int u = 0; u < n; u++) {
             if(!visited[u]) {
-                queue<int> q;
-                q.push(u);
-                
-                visited[u] = true;
-
-                long long compCount = 0;
-                while(!q.empty()) {
-                    int v = q.front();
-                    q.pop();
-                    compCount++;
-                    for(int i : adj[v]) {
-                        if(!visited[i]) {
-                            q.push(i);
-                            visited[i] = true;
-                        }
-                    }
-                }
+                long long compCount = dfs(adj, visited, u);
 
                 remainingNodes -= compCount;
                 ans += compCount * remainingNodes;
