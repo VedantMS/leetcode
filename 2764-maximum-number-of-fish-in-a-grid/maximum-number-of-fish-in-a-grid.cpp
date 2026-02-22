@@ -25,11 +25,12 @@ public:
     }
 
     int findMaxFish(vector<vector<int>>& grid) {
-        maxFish = 0;
-        tempFish = 0;
-
         int rows = grid.size();
         int cols = grid[0].size();
+        
+        maxFish = 0;
+        tempFish = 0;
+        
         for(int i = 0; i < rows; i++) {
             for(int j = 0; j < cols; j++) {
                 if(grid[i][j] > 0) {
