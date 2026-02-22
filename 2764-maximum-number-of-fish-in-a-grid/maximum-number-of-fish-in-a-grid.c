@@ -1,10 +1,10 @@
+static const int dr[] = {-1, 1, 0, 0};
+static const int dc[] = {0, 0, -1, 1};
+
 int dfs(int **grid, int rows, int cols, int r, int c) {
     int fish = grid[r][c];
 
     grid[r][c] = 0;
-
-    int dr[] = {-1, 1, 0, 0};
-    int dc[] = {0, 0, -1, 1};
 
     for(int i = 0; i < 4; i++) {
         int nr = r + dr[i];
