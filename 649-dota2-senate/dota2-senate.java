@@ -1,6 +1,7 @@
 class Solution {
     public String predictPartyVictory(String senate) {
         int n = senate.length();
+        
         Queue<Integer> radiant = new LinkedList<>();
         Queue<Integer> dire = new LinkedList<>();
 
