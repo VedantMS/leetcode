@@ -17,7 +17,7 @@ public:
                     for(int k = 0; k < 4; k++) {
                         int nr = i + dr[k];
                         int nc = j + dc[k];
-                        
+
                         if(nr < rows && nr >= 0 && nc < cols && nc >= 0 && grid[nr][nc]) {
                             perimeter--;
                         }
