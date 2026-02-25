@@ -29,7 +29,7 @@ public:
                 long long x2 = bombs[j][0];
                 long long y2 = bombs[j][1];
 
-                if(((x1 - x2) * (x1 - x2)) + ((y1 - y2) * (y1 - y2)) <= pow(r, 2)) {
+                if(((x1 - x2) * (x1 - x2)) + ((y1 - y2) * (y1 - y2)) <= r * r) {
                     adj[i].push_back(j);
                 }
             }
