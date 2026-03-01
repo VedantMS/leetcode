@@ -30,7 +30,7 @@ public:
             int level = q.size();
 
             for(int i = 0; i < level; i++) {
-                auto node = q.front();
+                Node *node = q.front();
                 q.pop();
 
                 if(i < level - 1) {
