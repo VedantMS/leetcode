@@ -6,18 +6,16 @@ public:
 
         vector<string> ans;
 
-        for(int i = 0; i < len1; i++) {
-            string str = queries[i];
-            for(int j = 0; j < len2; j++) {
-                string s = dictionary[j];
+        for(auto &q : queries) {
+            for(auto &d : dictionary) {
                 int diff = 0;
-                for(int k = 0; k < s.size(); k++) {
-                    if(str[k] != s[k]) {
+                for(int i = 0; i < q.size(); i++) {
+                    if(q[i] != d[i]) {
                         diff++;
                     }
                 }
                 if(diff <= 2) {
-                    ans.push_back(str);
+                    ans.push_back(q);
                     break;
                 }
             }
