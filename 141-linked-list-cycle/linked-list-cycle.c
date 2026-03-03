@@ -6,7 +6,7 @@
  * };
  */
 bool hasCycle(struct ListNode *head) {
-    if(!head || !head->next) {
+    if(!head) {
         return false;
     }
 
