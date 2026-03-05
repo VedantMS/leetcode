@@ -12,7 +12,7 @@ void dfs(struct TreeNode *node, bool left, int length, int *ans) {
         return;
     }
 
-    if(*ans < length) {
+    if(length > *ans) {
         *ans = length;
     }
 
