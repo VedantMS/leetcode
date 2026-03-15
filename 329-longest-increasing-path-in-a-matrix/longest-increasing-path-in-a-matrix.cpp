@@ -1,7 +1,8 @@
 class Solution {
 public:
     int memo[201][201];
-
+    int rows;
+    int cols;
     static constexpr int dr[] = {-1, 1, 0, 0};
     static constexpr int dc[] = {0, 0, -1, 1};
 
@@ -11,8 +12,6 @@ public:
         }
         
         int maxlen = 1;
-        int rows = matrix.size();
-        int cols = matrix[0].size();
 
         for(int i = 0; i < 4; i++) {
             int nr = r + dr[i];
@@ -28,10 +27,13 @@ public:
 
     int longestIncreasingPath(vector<vector<int>>& matrix) {
         int ans = 0;
-        int rows = matrix.size();
-        int cols = matrix[0].size();
+        
+        rows = matrix.size();
+        cols = matrix[0].size();
 
-        memset(memo, 0, sizeof(memo));
+        for(int i = 0; i < rows; i++) {
+            memset(memo[i], 0, sizeof(cols));
+        }
 
         for(int i = 0; i < rows; i++) {
             for(int j = 0; j < cols; j++) {
