@@ -42,7 +42,7 @@ public:
                 temp.push_back(num->val);
 
                 for(auto child : num->children) {
-                    q.push(child);
+                    if(child)   q.push(child);
                 }
             }
 
