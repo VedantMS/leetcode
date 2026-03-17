@@ -33,15 +33,15 @@ public:
 
         while(!q.empty()) {
             int level = q.size();
-            vector<int> temp(level);
+            vector<int> temp;
 
             for(int i = 0; i < level; i++) {
-                Node *num = q.front();
+                auto num = q.front();
                 q.pop();
                 
-                temp[i] = num->val;
+                temp.push_back(num->val);
 
-                for(Node *child : num->children) {
+                for(auto child : num->children) {
                     q.push(child);
                 }
             }
