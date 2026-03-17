@@ -36,13 +36,13 @@ public:
             vector<int> temp;
 
             for(int i = 0; i < level; i++) {
-                auto num = q.front();
+                Node *num = q.front();
                 q.pop();
                 
                 temp.push_back(num->val);
 
-                for(auto child : num->children) {
-                    if(child)   q.push(child);
+                for(Node *child : num->children) {
+                    q.push(child);
                 }
             }
 
