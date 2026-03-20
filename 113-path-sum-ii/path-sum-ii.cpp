@@ -18,11 +18,7 @@ public:
         sum += root->val;
         temp.push_back(root->val);
         
-        if(!root->left && !root->right) {
-            if(sum == target) {
-                ans.push_back(temp);
-            }
-        }
+        if(!root->left && !root->right && sum == target)    ans.push_back(temp);
 
         if(root->left)      dfs(root->left, temp, sum);
         if(root->right)     dfs(root->right, temp, sum);
