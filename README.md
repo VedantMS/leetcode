@@ -169,6 +169,7 @@
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/VedantMS/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/VedantMS/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Breadth-First Search
 |  |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/VedantMS/leetcode/tree/master/0563-binary-tree-tilt) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/VedantMS/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Union-Find
 |  |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/VedantMS/leetcode/tree/master/0563-binary-tree-tilt) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/VedantMS/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## String
 |  |
