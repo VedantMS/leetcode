@@ -141,6 +141,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/VedantMS/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/VedantMS/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Hash Table
 |  |
@@ -186,6 +187,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Tree
 |  |
 | ------- |
