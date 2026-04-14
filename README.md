@@ -151,6 +151,7 @@
 | [0036-valid-sudoku](https://github.com/VedantMS/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/VedantMS/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0205-isomorphic-strings](https://github.com/VedantMS/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/VedantMS/leetcode/tree/master/0290-word-pattern) |
 ## Matrix
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VedantMS/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/VedantMS/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/VedantMS/leetcode/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
