@@ -162,6 +162,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/VedantMS/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0319-bulb-switcher](https://github.com/VedantMS/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 ## Brainteaser
