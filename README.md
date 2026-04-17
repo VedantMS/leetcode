@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/VedantMS/leetcode/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/VedantMS/leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/VedantMS/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0319-bulb-switcher](https://github.com/VedantMS/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/VedantMS/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/VedantMS/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Tree
