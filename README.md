@@ -178,6 +178,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/VedantMS/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/VedantMS/leetcode/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/VedantMS/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 ## Depth-First Search
 |  |
