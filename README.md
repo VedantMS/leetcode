@@ -140,6 +140,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/VedantMS/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0053-maximum-subarray](https://github.com/VedantMS/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/VedantMS/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0134-gas-station](https://github.com/VedantMS/leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/VedantMS/leetcode/tree/master/0137-single-number-ii) |
@@ -250,10 +251,15 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VedantMS/leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/VedantMS/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/VedantMS/leetcode/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VedantMS/leetcode/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/VedantMS/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
