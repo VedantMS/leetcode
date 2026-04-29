@@ -142,6 +142,7 @@
 | [0036-valid-sudoku](https://github.com/VedantMS/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0053-maximum-subarray](https://github.com/VedantMS/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/VedantMS/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VedantMS/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/VedantMS/leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/VedantMS/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
@@ -216,6 +217,7 @@
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VedantMS/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/VedantMS/leetcode/tree/master/0563-binary-tree-tilt) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/VedantMS/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
@@ -231,6 +233,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VedantMS/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/VedantMS/leetcode/tree/master/0563-binary-tree-tilt) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/VedantMS/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
@@ -261,6 +264,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VedantMS/leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VedantMS/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/VedantMS/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/VedantMS/leetcode/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VedantMS/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -299,4 +303,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VedantMS/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
