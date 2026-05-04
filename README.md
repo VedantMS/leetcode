@@ -179,6 +179,7 @@
 | [0012-integer-to-roman](https://github.com/VedantMS/leetcode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/VedantMS/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VedantMS/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/VedantMS/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0319-bulb-switcher](https://github.com/VedantMS/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedantMS/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VedantMS/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/VedantMS/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VedantMS/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -307,6 +309,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
 ## Binary Search Tree
 |  |
