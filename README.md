@@ -185,10 +185,12 @@
 | [0319-bulb-switcher](https://github.com/VedantMS/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedantMS/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/VedantMS/leetcode/tree/main/0319-bulb-switcher/) | Medium |
+| [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -288,6 +290,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/VedantMS/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VedantMS/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 ## Queue
 |  |
 | ------- |
@@ -329,4 +332,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedantMS/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
