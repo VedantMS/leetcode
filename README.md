@@ -258,6 +258,7 @@
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/VedantMS/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/VedantMS/leetcode/tree/master/0290-word-pattern) |
+| [1668-maximum-repeating-substring](https://github.com/VedantMS/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -295,6 +296,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VedantMS/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
+| [1668-maximum-repeating-substring](https://github.com/VedantMS/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Queue
 |  |
 | ------- |
@@ -340,4 +342,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/VedantMS/leetcode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
