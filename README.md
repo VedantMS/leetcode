@@ -213,6 +213,7 @@
 | [0133-clone-graph](https://github.com/VedantMS/leetcode/tree/master/0133-clone-graph) |
 | [0563-binary-tree-tilt](https://github.com/VedantMS/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/VedantMS/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -221,6 +222,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/VedantMS/leetcode/tree/master/0133-clone-graph) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
 | [0909-snakes-and-ladders](https://github.com/VedantMS/leetcode/tree/master/0909-snakes-and-ladders) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -249,6 +251,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/VedantMS/leetcode/tree/master/0133-clone-graph) |
+| [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Binary Tree
 |  |
@@ -359,4 +362,12 @@
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/VedantMS/leetcode/tree/master/1861-rotating-the-box) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
