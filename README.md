@@ -254,6 +254,7 @@
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VedantMS/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/VedantMS/leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -368,9 +369,11 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/VedantMS/leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VedantMS/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/VedantMS/leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 <!---LeetCode Topics End-->
