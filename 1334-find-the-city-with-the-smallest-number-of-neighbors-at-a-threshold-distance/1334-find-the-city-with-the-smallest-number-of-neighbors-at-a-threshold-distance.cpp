@@ -1,50 +1,38 @@
 class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        vector<vector<pair<int, int>>> adj(n);
+        vector<vector<int>> adj(n, vector<int> (n, 1e9));
 
         for(auto &edge : edges) {
-            adj[edge[0]].push_back({edge[1], edge[2]});
-            adj[edge[1]].push_back({edge[0], edge[2]});
+            adj[edge[0]][edge[1]] = edge[2];
+            adj[edge[1]][edge[0]] = edge[2];
+        }
+
+        for(int i = 0; i < n; i++)      adj[i][i] = 0;
+
+        for(int k = 0; k < n; k++) {
+            for(int i = 0; i < n; i++) {
+                for(int j = 0; j < n; j++) {
+                    adj[i][j] = min(adj[i][j], adj[i][k] + adj[k][j]);
+                }
+            }
         }
 
         int ans = -1;
         int cities = n;
 
         for(int i = 0; i < n; i++) {
-            priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
-            pq.push({0, i});
+            int count = -1;
 
-            vector<int> dist(n, INT_MAX);
-            dist[i] = 0;
-
-            int nodes = 0;
-            
-            while(!pq.empty()) {
-                auto [d, u] = pq.top();
-                pq.pop();
-
-                if(d > dist[u]) {
-                    continue;
-                }
-
-                for(auto &[v, w] : adj[u]) { 
-                    if(dist[u] + w < dist[v] && dist[u] + w <= distanceThreshold)  {
-                        dist[v] = dist[u] + w;
-                        pq.push({dist[v], v});
-                    }
+            for(int j = 0; j < n; j++) {
+                if(adj[i][j] <= distanceThreshold) {
+                    count++;
                 }
             }
 
-            for(int i = 0; i < n; i++) {
-                if(dist[i] <= distanceThreshold) {
-                    nodes++;
-                }
-            }
-
-            if(cities >= nodes) {
-                cities = nodes;
+            if(count <= cities) {
                 ans = i;
+                cities = count;
             }
         }
 
