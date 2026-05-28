@@ -60,6 +60,7 @@
 | [0002-add-two-numbers](https://github.com/VedantMS/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/VedantMS/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/VedantMS/leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/VedantMS/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/VedantMS/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VedantMS/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0070-climbing-stairs) |
@@ -79,6 +80,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/VedantMS/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/VedantMS/leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/VedantMS/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/VedantMS/leetcode/tree/master/0190-reverse-bits) |
