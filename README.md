@@ -221,6 +221,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VedantMS/leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/VedantMS/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VedantMS/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VedantMS/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/VedantMS/leetcode/tree/master/0203-remove-linked-list-elements) |
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VedantMS/leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/VedantMS/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/VedantMS/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/VedantMS/leetcode/tree/master/0231-power-of-two) |
 ## Trie
