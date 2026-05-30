@@ -67,6 +67,7 @@
 | [0096-unique-binary-search-trees](https://github.com/VedantMS/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/VedantMS/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/VedantMS/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/VedantMS/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/VedantMS/leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/VedantMS/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedantMS/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VedantMS/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/VedantMS/leetcode/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -292,4 +294,8 @@
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/VedantMS/leetcode/tree/master/1854-maximum-population-year) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/VedantMS/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
