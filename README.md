@@ -227,6 +227,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VedantMS/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VedantMS/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/VedantMS/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/VedantMS/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/VedantMS/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/VedantMS/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/VedantMS/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/VedantMS/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -273,6 +275,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/VedantMS/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/VedantMS/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/VedantMS/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1861-rotating-the-box](https://github.com/VedantMS/leetcode/tree/master/1861-rotating-the-box) |
 ## Heap (Priority Queue)
@@ -298,4 +301,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VedantMS/leetcode/tree/master/0258-add-digits) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/VedantMS/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
