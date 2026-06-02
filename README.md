@@ -229,6 +229,7 @@
 | [0002-add-two-numbers](https://github.com/VedantMS/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/VedantMS/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VedantMS/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/VedantMS/leetcode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VedantMS/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/VedantMS/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/VedantMS/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -278,6 +279,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/VedantMS/leetcode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VedantMS/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/VedantMS/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/VedantMS/leetcode/tree/master/0287-find-the-duplicate-number) |
