@@ -76,6 +76,7 @@
 | [0263-ugly-number](https://github.com/VedantMS/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/VedantMS/leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/VedantMS/leetcode/tree/main/0319-bulb-switcher/) | Medium |
+| [0326-power-of-three](https://github.com/VedantMS/leetcode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedantMS/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
@@ -254,6 +255,7 @@
 | [0203-remove-linked-list-elements](https://github.com/VedantMS/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/VedantMS/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/VedantMS/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/VedantMS/leetcode/tree/master/0326-power-of-three) |
 ## Trie
 |  |
 | ------- |
