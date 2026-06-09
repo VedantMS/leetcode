@@ -35,6 +35,7 @@
 | [1861-rotating-the-box](https://github.com/VedantMS/leetcode/tree/master/1861-rotating-the-box) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/VedantMS/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3689-maximum-total-subarray-value-i](https://github.com/VedantMS/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/VedantMS/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/VedantMS/leetcode/tree/master/0134-gas-station) |
+| [3689-maximum-total-subarray-value-i](https://github.com/VedantMS/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
 |  |
 | ------- |
