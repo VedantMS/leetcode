@@ -7,6 +7,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/VedantMS/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/VedantMS/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/VedantMS/leetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/VedantMS/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/VedantMS/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/VedantMS/leetcode/tree/master/0057-insert-interval) |
@@ -348,6 +349,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/VedantMS/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/VedantMS/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/VedantMS/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VedantMS/leetcode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/VedantMS/leetcode/tree/master/0257-binary-tree-paths) |
