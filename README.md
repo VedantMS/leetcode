@@ -194,6 +194,7 @@
 | [0006-zigzag-conversion](https://github.com/VedantMS/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/VedantMS/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/VedantMS/leetcode/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/VedantMS/leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/VedantMS/leetcode/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/VedantMS/leetcode/tree/master/0205-isomorphic-strings) |
@@ -233,6 +234,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VedantMS/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/VedantMS/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/VedantMS/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -353,6 +355,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VedantMS/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/VedantMS/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VedantMS/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/VedantMS/leetcode/tree/master/0078-subsets) |
