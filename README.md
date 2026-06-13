@@ -120,6 +120,7 @@
 | [0563-binary-tree-tilt](https://github.com/VedantMS/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VedantMS/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/VedantMS/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1192-critical-connections-in-a-network](https://github.com/VedantMS/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
@@ -131,6 +132,7 @@
 | [0133-clone-graph](https://github.com/VedantMS/leetcode/tree/master/0133-clone-graph) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VedantMS/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0909-snakes-and-ladders](https://github.com/VedantMS/leetcode/tree/master/0909-snakes-and-ladders) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -169,6 +171,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/VedantMS/leetcode/tree/master/0133-clone-graph) |
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VedantMS/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/VedantMS/leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1192-critical-connections-in-a-network](https://github.com/VedantMS/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VedantMS/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -246,6 +249,7 @@
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/VedantMS/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VedantMS/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VedantMS/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VedantMS/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -329,6 +333,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VedantMS/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/VedantMS/leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/VedantMS/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -337,6 +342,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VedantMS/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/VedantMS/leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VedantMS/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/VedantMS/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
