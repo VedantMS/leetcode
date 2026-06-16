@@ -83,6 +83,7 @@
 | [0258-add-digits](https://github.com/VedantMS/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/VedantMS/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/VedantMS/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/VedantMS/leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/VedantMS/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/VedantMS/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VedantMS/leetcode/tree/master/0342-power-of-four) |
@@ -93,6 +94,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/VedantMS/leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/VedantMS/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 ## Bit Manipulation
@@ -318,6 +320,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/VedantMS/leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 ## String Matching
 |  |
