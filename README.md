@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/VedantMS/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/VedantMS/leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/VedantMS/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/VedantMS/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/VedantMS/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VedantMS/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/VedantMS/leetcode/tree/master/0090-subsets-ii) |
@@ -310,6 +311,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/VedantMS/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/VedantMS/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/VedantMS/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VedantMS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedantMS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -333,6 +335,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/VedantMS/leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/VedantMS/leetcode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VedantMS/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/VedantMS/leetcode/tree/master/0234-palindrome-linked-list) |
