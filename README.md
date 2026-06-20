@@ -120,6 +120,7 @@
 | [0342-power-of-four](https://github.com/VedantMS/leetcode/tree/master/0342-power-of-four) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedantMS/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -272,6 +273,7 @@
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VedantMS/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1668-maximum-repeating-substring](https://github.com/VedantMS/leetcode/tree/master/1668-maximum-repeating-substring) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedantMS/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Queue
 |  |
 | ------- |
@@ -403,4 +405,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/VedantMS/leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Enumeration
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedantMS/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
