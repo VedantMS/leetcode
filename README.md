@@ -37,6 +37,7 @@
 | [0909-snakes-and-ladders](https://github.com/VedantMS/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VedantMS/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1854-maximum-population-year](https://github.com/VedantMS/leetcode/tree/master/1854-maximum-population-year) |
 | [1861-rotating-the-box](https://github.com/VedantMS/leetcode/tree/master/1861-rotating-the-box) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/VedantMS/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
@@ -240,6 +241,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/VedantMS/leetcode/tree/master/0134-gas-station) |
+| [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VedantMS/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
 |  |
@@ -330,6 +332,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/VedantMS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedantMS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/VedantMS/leetcode/tree/master/0414-third-maximum-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Design
 |  |
 | ------- |
@@ -417,4 +420,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/VedantMS/leetcode/tree/master/0148-sort-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
