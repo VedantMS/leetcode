@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/VedantMS/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/VedantMS/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/VedantMS/leetcode/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/VedantMS/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/VedantMS/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/VedantMS/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/VedantMS/leetcode/tree/master/0078-subsets) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/VedantMS/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0064-minimum-path-sum](https://github.com/VedantMS/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/VedantMS/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
 | [0909-snakes-and-ladders](https://github.com/VedantMS/leetcode/tree/master/0909-snakes-and-ladders) |
@@ -267,6 +269,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/VedantMS/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/VedantMS/leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/VedantMS/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/VedantMS/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/VedantMS/leetcode/tree/master/0118-pascals-triangle) |
