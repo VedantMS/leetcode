@@ -26,6 +26,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/VedantMS/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/VedantMS/leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/VedantMS/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/VedantMS/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VedantMS/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VedantMS/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -59,6 +60,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/VedantMS/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VedantMS/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/VedantMS/leetcode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/VedantMS/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/VedantMS/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/VedantMS/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/VedantMS/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -336,6 +338,7 @@
 | [0056-merge-intervals](https://github.com/VedantMS/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/VedantMS/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/VedantMS/leetcode/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/VedantMS/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/VedantMS/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VedantMS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedantMS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -395,6 +398,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/VedantMS/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedantMS/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1854-maximum-population-year](https://github.com/VedantMS/leetcode/tree/master/1854-maximum-population-year) |
 ## Number Theory
