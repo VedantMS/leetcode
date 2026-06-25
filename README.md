@@ -101,6 +101,7 @@
 | [0319-bulb-switcher](https://github.com/VedantMS/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/VedantMS/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VedantMS/leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/VedantMS/leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedantMS/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/VedantMS/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/VedantMS/leetcode/tree/master/0507-perfect-number) |
@@ -173,6 +174,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/VedantMS/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/VedantMS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedantMS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/VedantMS/leetcode/tree/master/0367-valid-perfect-square) |
 ## Tree
 |  |
 | ------- |
