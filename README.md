@@ -107,6 +107,7 @@
 | [0507-perfect-number](https://github.com/VedantMS/leetcode/tree/master/0507-perfect-number) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
+| [1641-count-sorted-vowel-strings](https://github.com/VedantMS/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 ## Brainteaser
 |  |
 | ------- |
@@ -288,6 +289,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/VedantMS/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VedantMS/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1641-count-sorted-vowel-strings](https://github.com/VedantMS/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1668-maximum-repeating-substring](https://github.com/VedantMS/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedantMS/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Queue
@@ -444,4 +446,8 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/VedantMS/leetcode/tree/master/0223-rectangle-area) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/VedantMS/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
