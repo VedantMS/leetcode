@@ -45,6 +45,7 @@
 | [1861-rotating-the-box](https://github.com/VedantMS/leetcode/tree/master/1861-rotating-the-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/VedantMS/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VedantMS/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -111,6 +112,7 @@
 | [1641-count-sorted-vowel-strings](https://github.com/VedantMS/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 | [0258-add-digits](https://github.com/VedantMS/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/VedantMS/leetcode/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -416,6 +419,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VedantMS/leetcode/tree/master/0258-add-digits) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -460,4 +464,5 @@
 | [1641-count-sorted-vowel-strings](https://github.com/VedantMS/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
