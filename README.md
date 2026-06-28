@@ -46,6 +46,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/VedantMS/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VedantMS/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -138,6 +139,7 @@
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedantMS/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Depth-First Search
 |  |
@@ -302,6 +304,7 @@
 | [1641-count-sorted-vowel-strings](https://github.com/VedantMS/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1668-maximum-repeating-substring](https://github.com/VedantMS/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedantMS/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Queue
 |  |
@@ -440,6 +443,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/VedantMS/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -468,4 +472,8 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
