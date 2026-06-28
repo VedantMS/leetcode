@@ -103,6 +103,7 @@
 | [0319-bulb-switcher](https://github.com/VedantMS/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/VedantMS/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VedantMS/leetcode/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/VedantMS/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/VedantMS/leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedantMS/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/VedantMS/leetcode/tree/master/0412-fizz-buzz) |
@@ -292,6 +293,7 @@
 | [0119-pascals-triangle-ii](https://github.com/VedantMS/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/VedantMS/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0357-count-numbers-with-unique-digits](https://github.com/VedantMS/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0746-min-cost-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VedantMS/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VedantMS/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -434,6 +436,7 @@
 | [0078-subsets](https://github.com/VedantMS/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VedantMS/leetcode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/VedantMS/leetcode/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/VedantMS/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/VedantMS/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
