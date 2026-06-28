@@ -5,10 +5,6 @@ public:
             return 1;
         }
 
-        if (n == 1) {
-            return 10;
-        }
-
         int ans = 10;
         int num = 9;
 
