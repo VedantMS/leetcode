@@ -52,6 +52,7 @@
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/VedantMS/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VedantMS/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -147,6 +148,7 @@
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedantMS/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Depth-First Search
 |  |
@@ -275,6 +277,7 @@
 | [0860-lemonade-change](https://github.com/VedantMS/leetcode/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedantMS/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VedantMS/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
 |  |
@@ -316,6 +319,7 @@
 | [1668-maximum-repeating-substring](https://github.com/VedantMS/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedantMS/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Queue
 |  |
@@ -376,6 +380,7 @@
 | [0905-sort-array-by-parity](https://github.com/VedantMS/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedantMS/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 ## Design
 |  |
 | ------- |
@@ -461,6 +466,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -469,6 +475,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedantMS/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Merge Sort
 |  |
