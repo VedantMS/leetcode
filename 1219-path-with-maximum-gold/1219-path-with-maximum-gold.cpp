@@ -6,17 +6,24 @@ public:
     static constexpr int dr[] = {-1, 1, 0, 0};
     static constexpr int dc[] = {0, 0, -1, 1};
 
-    void check(vector<vector<int>> &grid) {
+    bool check(vector<vector<int>> &grid) {
+        int sum = 0;
+
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 if (grid[i][j] == 0) {
-                    ans = 0;
-                    return;
+                    sum = 0;
+
+                    return false;
                 }
 
-                ans += grid[i][j];
+                sum += grid[i][j];
             }
         }
+
+        ans = sum;
+
+        return true;
     }
 
     void gold(vector<vector<int>> &grid, int r, int c, int sum) {
@@ -43,9 +50,7 @@ public:
         rows = grid.size();
         cols = grid[0].size();
 
-        check(grid);
-
-        if (ans != 0) {
+        if (check(grid)) {
             return ans;
         }
 
