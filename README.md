@@ -24,6 +24,7 @@
 | [0137-single-number-ii](https://github.com/VedantMS/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VedantMS/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/VedantMS/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/VedantMS/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/VedantMS/leetcode/tree/master/0229-majority-element-ii) |
@@ -194,6 +195,7 @@
 | [0069-sqrtx](https://github.com/VedantMS/leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VedantMS/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VedantMS/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/VedantMS/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/VedantMS/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VedantMS/leetcode/tree/master/0287-find-the-duplicate-number) |
