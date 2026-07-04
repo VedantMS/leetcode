@@ -59,6 +59,7 @@
 | [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/VedantMS/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VedantMS/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VedantMS/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/VedantMS/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -83,6 +84,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/VedantMS/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/VedantMS/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VedantMS/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -356,6 +358,7 @@
 | [0203-remove-linked-list-elements](https://github.com/VedantMS/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/VedantMS/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/VedantMS/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VedantMS/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
