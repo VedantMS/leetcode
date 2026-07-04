@@ -25,6 +25,7 @@
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VedantMS/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0204-count-primes](https://github.com/VedantMS/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/VedantMS/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/VedantMS/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/VedantMS/leetcode/tree/master/0229-majority-element-ii) |
@@ -110,6 +111,7 @@
 | [0070-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/VedantMS/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/VedantMS/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/VedantMS/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/VedantMS/leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/VedantMS/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/VedantMS/leetcode/tree/master/0258-add-digits) |
@@ -464,6 +466,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/VedantMS/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/VedantMS/leetcode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/VedantMS/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -498,6 +501,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/VedantMS/leetcode/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedantMS/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
