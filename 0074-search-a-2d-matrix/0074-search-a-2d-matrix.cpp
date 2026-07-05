@@ -4,11 +4,35 @@ public:
         int rows = matrix.size();
         int cols = matrix[0].size();
 
-        for (int i = 0; i < rows; i++) {
-            if (matrix[i][cols - 1] >= target) {
-                for (int j = 0; j < cols; j++) {
-                    if (matrix[i][j] == target) {
+        int low = 0, high = rows - 1;
+
+        while (low <= high) {
+            int middle = low + (high - low) / 2;
+
+            if (matrix[middle][cols - 1] < target) {
+                low = middle + 1;
+            }
+
+            else if (matrix[middle][0] > target) {
+                high = middle - 1;
+            }
+
+            else {
+                int left = 0, right = cols - 1;
+
+                while (left <= right) {
+                    int mid = left + (right - left) / 2;
+
+                    if (matrix[middle][mid] == target) {
                         return true;
+                    }
+
+                    if (matrix[middle][mid] < target) {
+                        left = mid + 1;
+                    }
+
+                    else {
+                        right = mid - 1;
                     }
                 }
 
