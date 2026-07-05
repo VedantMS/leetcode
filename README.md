@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/VedantMS/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VedantMS/leetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/VedantMS/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/VedantMS/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/VedantMS/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/VedantMS/leetcode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/VedantMS/leetcode/tree/master/0064-minimum-path-sum) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/VedantMS/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0054-spiral-matrix](https://github.com/VedantMS/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/VedantMS/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/VedantMS/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
@@ -309,6 +311,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VedantMS/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/VedantMS/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/VedantMS/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/VedantMS/leetcode/tree/master/0412-fizz-buzz) |
