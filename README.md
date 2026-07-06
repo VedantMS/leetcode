@@ -42,6 +42,7 @@
 | [0414-third-maximum-number](https://github.com/VedantMS/leetcode/tree/master/0414-third-maximum-number) |
 | [0491-non-decreasing-subsequences](https://github.com/VedantMS/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/VedantMS/leetcode/tree/master/0494-target-sum) |
+| [0561-array-partition](https://github.com/VedantMS/leetcode/tree/master/0561-array-partition) |
 | [0746-min-cost-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/VedantMS/leetcode/tree/master/0860-lemonade-change) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/VedantMS/leetcode/tree/master/0134-gas-station) |
+| [0561-array-partition](https://github.com/VedantMS/leetcode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/VedantMS/leetcode/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedantMS/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -412,6 +414,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/VedantMS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedantMS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/VedantMS/leetcode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/VedantMS/leetcode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/VedantMS/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedantMS/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -527,6 +530,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/VedantMS/leetcode/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/VedantMS/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Geometry
