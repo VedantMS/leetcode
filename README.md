@@ -146,6 +146,7 @@
 | [0367-valid-perfect-square](https://github.com/VedantMS/leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedantMS/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/VedantMS/leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/VedantMS/leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/VedantMS/leetcode/tree/master/0507-perfect-number) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0883-projection-area-of-3d-shapes](https://github.com/VedantMS/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -232,6 +233,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/VedantMS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedantMS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/VedantMS/leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/VedantMS/leetcode/tree/master/0441-arranging-coins) |
 ## Tree
 |  |
 | ------- |
