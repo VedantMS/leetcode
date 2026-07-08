@@ -294,6 +294,7 @@
 | [0409-longest-palindrome](https://github.com/VedantMS/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/VedantMS/leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/VedantMS/leetcode/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/VedantMS/leetcode/tree/master/0844-backspace-string-compare) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/VedantMS/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1668-maximum-repeating-substring](https://github.com/VedantMS/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VedantMS/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -343,6 +344,7 @@
 | [0412-fizz-buzz](https://github.com/VedantMS/leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/VedantMS/leetcode/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/VedantMS/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/VedantMS/leetcode/tree/master/0867-transpose-matrix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Dynamic Programming
@@ -470,6 +472,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedantMS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/VedantMS/leetcode/tree/master/0541-reverse-string-ii) |
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/VedantMS/leetcode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/VedantMS/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1861-rotating-the-box](https://github.com/VedantMS/leetcode/tree/master/1861-rotating-the-box) |
 ## Heap (Priority Queue)
@@ -512,6 +515,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/VedantMS/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/VedantMS/leetcode/tree/master/0844-backspace-string-compare) |
 ## Backtracking
 |  |
 | ------- |
