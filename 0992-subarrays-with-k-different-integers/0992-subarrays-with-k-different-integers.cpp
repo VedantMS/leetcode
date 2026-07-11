@@ -1,19 +1,22 @@
 class Solution {
 public:
     int subarray(vector<int> &nums, int n, int k) {
-        unordered_map<int, int> mp;
+        vector<int> freq(n + 1, 0);
+        int val = 0;
 
         int left = 0, right = 0;
         int ans = 0;
 
         while (right < n) {
-            mp[nums[right]]++;
+            if (freq[nums[right]]++ == 0) {
+                val++;
+            }
 
-            while (mp.size() > k) {
-                mp[nums[left]]--;
+            while (val > k) {
+                freq[nums[left]]--;
 
-                if (mp[nums[left]] == 0) {
-                    mp.erase(nums[left]);
+                if (freq[nums[left]] == 0) {
+                    val--;
                 }
                 
                 left++;
