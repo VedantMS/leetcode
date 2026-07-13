@@ -576,6 +576,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/VedantMS/leetcode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/VedantMS/leetcode/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedantMS/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
