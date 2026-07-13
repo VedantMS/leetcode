@@ -91,6 +91,7 @@
 | [0036-valid-sudoku](https://github.com/VedantMS/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/VedantMS/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/VedantMS/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0126-word-ladder-ii](https://github.com/VedantMS/leetcode/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/VedantMS/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/VedantMS/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -220,6 +221,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/VedantMS/leetcode/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/VedantMS/leetcode/tree/master/0133-clone-graph) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
@@ -309,6 +311,7 @@
 | [0012-integer-to-roman](https://github.com/VedantMS/leetcode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/VedantMS/leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/VedantMS/leetcode/tree/master/0067-add-binary) |
+| [0126-word-ladder-ii](https://github.com/VedantMS/leetcode/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/VedantMS/leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/VedantMS/leetcode/tree/master/0257-binary-tree-paths) |
@@ -558,6 +561,7 @@
 | [0077-combinations](https://github.com/VedantMS/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/VedantMS/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VedantMS/leetcode/tree/master/0090-subsets-ii) |
+| [0126-word-ladder-ii](https://github.com/VedantMS/leetcode/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/VedantMS/leetcode/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/VedantMS/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/VedantMS/leetcode/tree/master/0491-non-decreasing-subsequences) |
