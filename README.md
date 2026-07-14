@@ -174,6 +174,7 @@
 | [1641-count-sorted-vowel-strings](https://github.com/VedantMS/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1952-three-divisors](https://github.com/VedantMS/leetcode/tree/master/1952-three-divisors) |
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VedantMS/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -549,6 +550,7 @@
 | [0204-count-primes](https://github.com/VedantMS/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/VedantMS/leetcode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/VedantMS/leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/VedantMS/leetcode/tree/master/1952-three-divisors) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VedantMS/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
@@ -587,6 +589,7 @@
 | [0204-count-primes](https://github.com/VedantMS/leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/VedantMS/leetcode/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1952-three-divisors](https://github.com/VedantMS/leetcode/tree/master/1952-three-divisors) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedantMS/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Merge Sort
