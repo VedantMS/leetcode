@@ -50,6 +50,7 @@
 | [0561-array-partition](https://github.com/VedantMS/leetcode/tree/master/0561-array-partition) |
 | [0746-min-cost-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/VedantMS/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0794-valid-tic-tac-toe-state](https://github.com/VedantMS/leetcode/tree/master/0794-valid-tic-tac-toe-state) |
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/VedantMS/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/VedantMS/leetcode/tree/master/0867-transpose-matrix) |
@@ -125,6 +126,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/VedantMS/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/VedantMS/leetcode/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/VedantMS/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0794-valid-tic-tac-toe-state](https://github.com/VedantMS/leetcode/tree/master/0794-valid-tic-tac-toe-state) |
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/VedantMS/leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/VedantMS/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
