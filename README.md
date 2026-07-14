@@ -60,6 +60,7 @@
 | [0912-sort-an-array](https://github.com/VedantMS/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VedantMS/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VedantMS/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0999-available-captures-for-rook](https://github.com/VedantMS/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1219-path-with-maximum-gold](https://github.com/VedantMS/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/VedantMS/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -131,6 +132,7 @@
 | [0867-transpose-matrix](https://github.com/VedantMS/leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/VedantMS/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0909-snakes-and-ladders](https://github.com/VedantMS/leetcode/tree/master/0909-snakes-and-ladders) |
+| [0999-available-captures-for-rook](https://github.com/VedantMS/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1219-path-with-maximum-gold](https://github.com/VedantMS/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/VedantMS/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -377,6 +379,7 @@
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/VedantMS/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/VedantMS/leetcode/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/VedantMS/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/VedantMS/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Dynamic Programming
