@@ -74,6 +74,7 @@
 | [1854-maximum-population-year](https://github.com/VedantMS/leetcode/tree/master/1854-maximum-population-year) |
 | [1861-rotating-the-box](https://github.com/VedantMS/leetcode/tree/master/1861-rotating-the-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1920-build-array-from-permutation](https://github.com/VedantMS/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VedantMS/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/VedantMS/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -384,6 +385,7 @@
 | [0985-sum-of-even-numbers-after-queries](https://github.com/VedantMS/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0999-available-captures-for-rook](https://github.com/VedantMS/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/VedantMS/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
+| [1920-build-array-from-permutation](https://github.com/VedantMS/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Dynamic Programming
 |  |
