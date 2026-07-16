@@ -2,18 +2,26 @@ class Solution {
 public:
     bool containsNearbyAlmostDuplicate(vector<int>& nums, int indexDiff, int valueDiff) {
         int n = nums.size();
-        set<int> st(nums.begin(), nums.end());
+        set<int> st;
 
         if (st.size() == n && valueDiff == 0) {
             return false;
         }
         
-        for (int i = 0; i < n - 1; i++) {
-            for (int j = i + 1; j < n && j <= i + indexDiff; j++) {
-                if (abs(nums[i] - nums[j]) <= valueDiff) {
-                    return true;
-                }
+        for (int i = 0; i < n; i++) {
+            if (i > indexDiff) {
+                st.erase(nums[i - indexDiff - 1]);
             }
+            
+            int num = nums[i];
+
+            auto it = st.lower_bound(num - valueDiff);
+
+            if (it != st.end() && *it <= num + valueDiff) {
+                return true;
+            }
+
+            st.insert(num);
         }
 
         return false;
