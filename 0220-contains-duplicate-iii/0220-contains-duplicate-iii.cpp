@@ -3,10 +3,6 @@ public:
     bool containsNearbyAlmostDuplicate(vector<int>& nums, int indexDiff, int valueDiff) {
         int n = nums.size();
         set<int> st;
-
-        if (st.size() == n && valueDiff == 0) {
-            return false;
-        }
         
         for (int i = 0; i < n; i++) {
             if (i > indexDiff) {
