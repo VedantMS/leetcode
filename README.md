@@ -220,6 +220,7 @@
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VedantMS/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0938-range-sum-of-bst](https://github.com/VedantMS/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/VedantMS/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/VedantMS/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/VedantMS/leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -272,6 +273,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VedantMS/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/VedantMS/leetcode/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/VedantMS/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0938-range-sum-of-bst](https://github.com/VedantMS/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/VedantMS/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/VedantMS/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/VedantMS/leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -311,6 +313,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VedantMS/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/VedantMS/leetcode/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/VedantMS/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0938-range-sum-of-bst](https://github.com/VedantMS/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/VedantMS/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/VedantMS/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/VedantMS/leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -471,6 +474,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/VedantMS/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VedantMS/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/VedantMS/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Sorting
 |  |
 | ------- |
