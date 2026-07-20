@@ -44,6 +44,7 @@
 | [0377-combination-sum-iv](https://github.com/VedantMS/leetcode/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedantMS/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/VedantMS/leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/VedantMS/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/VedantMS/leetcode/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/VedantMS/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/VedantMS/leetcode/tree/master/0494-target-sum) |
@@ -115,6 +116,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/VedantMS/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedantMS/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/VedantMS/leetcode/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/VedantMS/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/VedantMS/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/VedantMS/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VedantMS/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -501,6 +503,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/VedantMS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedantMS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/VedantMS/leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/VedantMS/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/VedantMS/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/VedantMS/leetcode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/VedantMS/leetcode/tree/master/0905-sort-array-by-parity) |
