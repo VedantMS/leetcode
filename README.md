@@ -66,6 +66,7 @@
 | [0999-available-captures-for-rook](https://github.com/VedantMS/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1219-path-with-maximum-gold](https://github.com/VedantMS/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/VedantMS/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
+| [1260-shift-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VedantMS/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1514-path-with-maximum-probability](https://github.com/VedantMS/leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -143,6 +144,7 @@
 | [0999-available-captures-for-rook](https://github.com/VedantMS/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1219-path-with-maximum-gold](https://github.com/VedantMS/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/VedantMS/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
+| [1260-shift-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1260-shift-2d-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/VedantMS/leetcode/tree/master/1861-rotating-the-box) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -406,6 +408,7 @@
 | [0985-sum-of-even-numbers-after-queries](https://github.com/VedantMS/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0999-available-captures-for-rook](https://github.com/VedantMS/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/VedantMS/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
+| [1260-shift-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/VedantMS/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VedantMS/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
