@@ -216,6 +216,7 @@
 | [0268-missing-number](https://github.com/VedantMS/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VedantMS/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/VedantMS/leetcode/tree/master/0342-power-of-four) |
+| [0476-number-complement](https://github.com/VedantMS/leetcode/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/VedantMS/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
