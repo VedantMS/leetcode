@@ -39,6 +39,7 @@
 | [0268-missing-number](https://github.com/VedantMS/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VedantMS/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VedantMS/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/VedantMS/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VedantMS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedantMS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/VedantMS/leetcode/tree/master/0377-combination-sum-iv) |
@@ -115,6 +116,7 @@
 | [0229-majority-element-ii](https://github.com/VedantMS/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/VedantMS/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/VedantMS/leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/VedantMS/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VedantMS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedantMS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedantMS/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -412,6 +414,7 @@
 | [0190-reverse-bits](https://github.com/VedantMS/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/VedantMS/leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VedantMS/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/VedantMS/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/VedantMS/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VedantMS/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Simulation
@@ -520,6 +523,7 @@
 | [0220-contains-duplicate-iii](https://github.com/VedantMS/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/VedantMS/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/VedantMS/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/VedantMS/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VedantMS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedantMS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/VedantMS/leetcode/tree/master/0414-third-maximum-number) |
@@ -574,6 +578,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/VedantMS/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VedantMS/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/VedantMS/leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
@@ -597,6 +602,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/VedantMS/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/VedantMS/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedantMS/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VedantMS/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1854-maximum-population-year](https://github.com/VedantMS/leetcode/tree/master/1854-maximum-population-year) |
@@ -685,6 +691,7 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/VedantMS/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/VedantMS/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/VedantMS/leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -694,4 +701,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/VedantMS/leetcode/tree/master/0220-contains-duplicate-iii) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VedantMS/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
