@@ -9,6 +9,7 @@
 | [0037-sudoku-solver](https://github.com/VedantMS/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/VedantMS/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VedantMS/leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/VedantMS/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/VedantMS/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/VedantMS/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/VedantMS/leetcode/tree/master/0056-merge-intervals) |
@@ -632,6 +633,7 @@
 | [0037-sudoku-solver](https://github.com/VedantMS/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/VedantMS/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VedantMS/leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/VedantMS/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/VedantMS/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/VedantMS/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VedantMS/leetcode/tree/master/0090-subsets-ii) |
