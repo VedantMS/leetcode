@@ -61,6 +61,7 @@
 | [0860-lemonade-change](https://github.com/VedantMS/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/VedantMS/leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/VedantMS/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/VedantMS/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0909-snakes-and-ladders](https://github.com/VedantMS/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0912-sort-an-array](https://github.com/VedantMS/leetcode/tree/master/0912-sort-an-array) |
@@ -127,6 +128,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/VedantMS/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/VedantMS/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VedantMS/leetcode/tree/master/0525-contiguous-array) |
+| [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VedantMS/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -292,6 +294,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedantMS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/VedantMS/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/VedantMS/leetcode/tree/master/0441-arranging-coins) |
+| [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VedantMS/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
@@ -532,6 +535,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/VedantMS/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/VedantMS/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/VedantMS/leetcode/tree/master/0561-array-partition) |
+| [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/VedantMS/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/VedantMS/leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
