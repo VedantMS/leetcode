@@ -88,6 +88,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VedantMS/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedantMS/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2017-grid-game](https://github.com/VedantMS/leetcode/tree/master/2017-grid-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/VedantMS/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/VedantMS/leetcode/tree/master/2270-number-of-ways-to-split-array) |
@@ -161,6 +162,7 @@
 | [1260-shift-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1260-shift-2d-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/VedantMS/leetcode/tree/master/1861-rotating-the-box) |
+| [2017-grid-game](https://github.com/VedantMS/leetcode/tree/master/2017-grid-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/VedantMS/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
@@ -397,6 +399,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/VedantMS/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/VedantMS/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/VedantMS/leetcode/tree/master/1854-maximum-population-year) |
+| [2017-grid-game](https://github.com/VedantMS/leetcode/tree/master/2017-grid-game) |
 | [2270-number-of-ways-to-split-array](https://github.com/VedantMS/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 ## Greedy
 |  |
