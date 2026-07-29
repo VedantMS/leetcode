@@ -198,6 +198,7 @@
 | [0507-perfect-number](https://github.com/VedantMS/leetcode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/VedantMS/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0858-mirror-reflection](https://github.com/VedantMS/leetcode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/VedantMS/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -629,6 +630,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/VedantMS/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/VedantMS/leetcode/tree/master/0258-add-digits) |
+| [0858-mirror-reflection](https://github.com/VedantMS/leetcode/tree/master/0858-mirror-reflection) |
 | [1492-the-kth-factor-of-n](https://github.com/VedantMS/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/VedantMS/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedantMS/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -697,6 +699,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/VedantMS/leetcode/tree/master/0223-rectangle-area) |
+| [0858-mirror-reflection](https://github.com/VedantMS/leetcode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/VedantMS/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Combinatorics
 |  |
