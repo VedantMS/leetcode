@@ -211,6 +211,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedantMS/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VedantMS/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VedantMS/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/VedantMS/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VedantMS/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -387,6 +388,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VedantMS/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VedantMS/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VedantMS/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
@@ -420,6 +422,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedantMS/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/VedantMS/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VedantMS/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VedantMS/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
 |  |
