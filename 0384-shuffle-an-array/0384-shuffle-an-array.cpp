@@ -1,6 +1,3 @@
-random_device rd;
-mt19937_64 gen(rd());
-
 class Solution {
 public:
     vector<int> a, b;
@@ -15,7 +12,14 @@ public:
     }
     
     vector<int> shuffle() {
-        std::shuffle(b.begin(), b.end(), gen);
+        int n = b.size();
+
+        for (int i = 0; i < n; i++) {
+            int j = rand() % (i + 1);
+
+            swap(b[i], b[j]);
+        }
+
         return b;
     }
 };
