@@ -64,6 +64,7 @@
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/VedantMS/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/VedantMS/leetcode/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/VedantMS/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/VedantMS/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/VedantMS/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -209,6 +210,7 @@
 | [0523-continuous-subarray-sum](https://github.com/VedantMS/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0858-mirror-reflection](https://github.com/VedantMS/leetcode/tree/master/0858-mirror-reflection) |
+| [0877-stone-game](https://github.com/VedantMS/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/VedantMS/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -489,6 +491,7 @@
 | [0494-target-sum](https://github.com/VedantMS/leetcode/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VedantMS/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/VedantMS/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VedantMS/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VedantMS/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -595,6 +598,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/VedantMS/leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/VedantMS/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/VedantMS/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 ## String Matching
 |  |
