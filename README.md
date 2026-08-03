@@ -101,6 +101,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/VedantMS/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
+| [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/VedantMS/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VedantMS/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -145,6 +146,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VedantMS/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VedantMS/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3527-find-the-most-common-response](https://github.com/VedantMS/leetcode/tree/master/3527-find-the-most-common-response) |
@@ -226,6 +228,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedantMS/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VedantMS/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VedantMS/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/VedantMS/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -665,6 +668,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/VedantMS/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VedantMS/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1854-maximum-population-year](https://github.com/VedantMS/leetcode/tree/master/1854-maximum-population-year) |
+| [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VedantMS/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3527-find-the-most-common-response](https://github.com/VedantMS/leetcode/tree/master/3527-find-the-most-common-response) |
 ## Number Theory
@@ -677,6 +681,7 @@
 | [1952-three-divisors](https://github.com/VedantMS/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedantMS/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VedantMS/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VedantMS/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
