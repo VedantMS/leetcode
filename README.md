@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/VedantMS/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VedantMS/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/VedantMS/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/VedantMS/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/VedantMS/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/VedantMS/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/VedantMS/leetcode/tree/master/0054-spiral-matrix) |
@@ -578,6 +579,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/VedantMS/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/VedantMS/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/VedantMS/leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/VedantMS/leetcode/tree/master/0147-insertion-sort-list) |
@@ -714,6 +716,7 @@
 | [0039-combination-sum](https://github.com/VedantMS/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VedantMS/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/VedantMS/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/VedantMS/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/VedantMS/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/VedantMS/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/VedantMS/leetcode/tree/master/0077-combinations) |
