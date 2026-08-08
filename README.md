@@ -197,6 +197,7 @@
 | [0067-add-binary](https://github.com/VedantMS/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VedantMS/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/VedantMS/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/VedantMS/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/VedantMS/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/VedantMS/leetcode/tree/master/0204-count-primes) |
@@ -254,6 +255,7 @@
 | [0029-divide-two-integers](https://github.com/VedantMS/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/VedantMS/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/VedantMS/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/VedantMS/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/VedantMS/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/VedantMS/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/VedantMS/leetcode/tree/master/0190-reverse-bits) |
@@ -724,6 +726,7 @@
 | [0052-n-queens-ii](https://github.com/VedantMS/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/VedantMS/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/VedantMS/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/VedantMS/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/VedantMS/leetcode/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/VedantMS/leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/VedantMS/leetcode/tree/master/0131-palindrome-partitioning) |
