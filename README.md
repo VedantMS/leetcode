@@ -284,6 +284,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/VedantMS/leetcode/tree/master/0133-clone-graph) |
 | [0257-binary-tree-paths](https://github.com/VedantMS/leetcode/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/VedantMS/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/VedantMS/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/VedantMS/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
@@ -576,6 +577,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/VedantMS/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Memoization
 |  |
 | ------- |
