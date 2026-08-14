@@ -108,6 +108,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/VedantMS/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
+| [2718-sum-of-matrix-after-queries](https://github.com/VedantMS/leetcode/tree/master/2718-sum-of-matrix-after-queries) |
 | [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VedantMS/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VedantMS/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -160,6 +161,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2718-sum-of-matrix-after-queries](https://github.com/VedantMS/leetcode/tree/master/2718-sum-of-matrix-after-queries) |
 | [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VedantMS/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VedantMS/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
