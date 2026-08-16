@@ -105,6 +105,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedantMS/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2017-grid-game](https://github.com/VedantMS/leetcode/tree/master/2017-grid-game) |
+| [2029-stone-game-ix](https://github.com/VedantMS/leetcode/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/VedantMS/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/VedantMS/leetcode/tree/master/2270-number-of-ways-to-split-array) |
@@ -254,6 +255,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/VedantMS/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedantMS/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/VedantMS/leetcode/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2427-number-of-common-factors](https://github.com/VedantMS/leetcode/tree/master/2427-number-of-common-factors) |
@@ -498,6 +500,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/VedantMS/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedantMS/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/VedantMS/leetcode/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/VedantMS/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VedantMS/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -680,6 +683,7 @@
 | [0486-predict-the-winner](https://github.com/VedantMS/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VedantMS/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
+| [2029-stone-game-ix](https://github.com/VedantMS/leetcode/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
 | ------- |
@@ -742,6 +746,7 @@
 | [1079-letter-tile-possibilities](https://github.com/VedantMS/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1267-count-servers-that-communicate](https://github.com/VedantMS/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1854-maximum-population-year](https://github.com/VedantMS/leetcode/tree/master/1854-maximum-population-year) |
+| [2029-stone-game-ix](https://github.com/VedantMS/leetcode/tree/master/2029-stone-game-ix) |
 | [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VedantMS/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3527-find-the-most-common-response](https://github.com/VedantMS/leetcode/tree/master/3527-find-the-most-common-response) |
@@ -902,4 +907,16 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/VedantMS/leetcode/tree/master/1051-height-checker) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VedantMS/leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VedantMS/leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VedantMS/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
