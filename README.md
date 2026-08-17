@@ -261,6 +261,7 @@
 | [2029-stone-game-ix](https://github.com/VedantMS/leetcode/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/VedantMS/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/VedantMS/leetcode/tree/master/2427-number-of-common-factors) |
 | [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VedantMS/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -276,6 +277,7 @@
 | [0319-bulb-switcher](https://github.com/VedantMS/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/VedantMS/leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2396-strictly-palindromic-number](https://github.com/VedantMS/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/VedantMS/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Bit Manipulation
 |  |
@@ -715,6 +717,7 @@
 | [0844-backspace-string-compare](https://github.com/VedantMS/leetcode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/VedantMS/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1861-rotating-the-box](https://github.com/VedantMS/leetcode/tree/master/1861-rotating-the-box) |
+| [2396-strictly-palindromic-number](https://github.com/VedantMS/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VedantMS/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
