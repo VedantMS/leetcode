@@ -121,6 +121,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VedantMS/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VedantMS/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/VedantMS/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/VedantMS/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/VedantMS/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VedantMS/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -557,6 +558,7 @@
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/VedantMS/leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1920-build-array-from-permutation](https://github.com/VedantMS/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/VedantMS/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VedantMS/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
