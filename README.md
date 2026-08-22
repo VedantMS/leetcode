@@ -35,6 +35,7 @@
 | [0140-word-break-ii](https://github.com/VedantMS/leetcode/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VedantMS/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/VedantMS/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/VedantMS/leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/VedantMS/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/VedantMS/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -666,6 +667,7 @@
 | [0075-sort-colors](https://github.com/VedantMS/leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/VedantMS/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/VedantMS/leetcode/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/VedantMS/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/VedantMS/leetcode/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/VedantMS/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/VedantMS/leetcode/tree/master/0229-majority-element-ii) |
@@ -890,6 +892,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/VedantMS/leetcode/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/VedantMS/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/VedantMS/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/VedantMS/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -897,6 +900,7 @@
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/VedantMS/leetcode/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/VedantMS/leetcode/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
@@ -964,4 +968,8 @@
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/VedantMS/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/VedantMS/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
