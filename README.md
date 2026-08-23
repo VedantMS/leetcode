@@ -269,6 +269,7 @@
 | [1641-count-sorted-vowel-strings](https://github.com/VedantMS/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1927-sum-game](https://github.com/VedantMS/leetcode/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/VedantMS/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedantMS/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VedantMS/leetcode/tree/master/2029-stone-game-ix) |
@@ -482,6 +483,7 @@
 | [1079-letter-tile-possibilities](https://github.com/VedantMS/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/VedantMS/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1668-maximum-repeating-substring](https://github.com/VedantMS/leetcode/tree/master/1668-maximum-repeating-substring) |
+| [1927-sum-game](https://github.com/VedantMS/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VedantMS/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
@@ -527,6 +529,7 @@
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/VedantMS/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedantMS/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/VedantMS/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/VedantMS/leetcode/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/VedantMS/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
@@ -717,6 +720,7 @@
 | [0486-predict-the-winner](https://github.com/VedantMS/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VedantMS/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
+| [1927-sum-game](https://github.com/VedantMS/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/VedantMS/leetcode/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
