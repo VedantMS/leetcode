@@ -116,6 +116,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/VedantMS/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/VedantMS/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2718-sum-of-matrix-after-queries](https://github.com/VedantMS/leetcode/tree/master/2718-sum-of-matrix-after-queries) |
 | [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
@@ -429,6 +430,7 @@
 | [1791-find-center-of-star-graph](https://github.com/VedantMS/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VedantMS/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/VedantMS/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/VedantMS/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/VedantMS/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/VedantMS/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -534,6 +536,7 @@
 | [1927-sum-game](https://github.com/VedantMS/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/VedantMS/leetcode/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/VedantMS/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/VedantMS/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VedantMS/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VedantMS/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -699,6 +702,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedantMS/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/VedantMS/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/VedantMS/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VedantMS/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VedantMS/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -765,6 +769,7 @@
 | [0912-sort-an-array](https://github.com/VedantMS/leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedantMS/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/VedantMS/leetcode/tree/master/1514-path-with-maximum-probability) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/VedantMS/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/VedantMS/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/VedantMS/leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
