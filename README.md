@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/VedantMS/leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/VedantMS/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/VedantMS/leetcode/tree/main/0036-valid-sudoku/) | Medium |
@@ -751,6 +752,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/VedantMS/leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/VedantMS/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/VedantMS/leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/VedantMS/leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/VedantMS/leetcode/tree/master/0142-linked-list-cycle-ii) |
