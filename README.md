@@ -273,6 +273,7 @@
 | [0598-range-addition-ii](https://github.com/VedantMS/leetcode/tree/master/0598-range-addition-ii) |
 | [0670-maximum-swap](https://github.com/VedantMS/leetcode/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0728-self-dividing-numbers](https://github.com/VedantMS/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0858-mirror-reflection](https://github.com/VedantMS/leetcode/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/VedantMS/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/VedantMS/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
