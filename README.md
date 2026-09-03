@@ -69,6 +69,7 @@
 | [0525-contiguous-array](https://github.com/VedantMS/leetcode/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/VedantMS/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/VedantMS/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/VedantMS/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/VedantMS/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/VedantMS/leetcode/tree/master/0598-range-addition-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -181,6 +182,7 @@
 | [0500-keyboard-row](https://github.com/VedantMS/leetcode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/VedantMS/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VedantMS/leetcode/tree/master/0525-contiguous-array) |
+| [0575-distribute-candies](https://github.com/VedantMS/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/VedantMS/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/VedantMS/leetcode/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
