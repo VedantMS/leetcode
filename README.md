@@ -163,6 +163,7 @@
 | [0073-set-matrix-zeroes](https://github.com/VedantMS/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0126-word-ladder-ii](https://github.com/VedantMS/leetcode/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/VedantMS/leetcode/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/VedantMS/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/VedantMS/leetcode/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/VedantMS/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -667,6 +668,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/VedantMS/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VedantMS/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/VedantMS/leetcode/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/VedantMS/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/VedantMS/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/VedantMS/leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/VedantMS/leetcode/tree/master/0147-insertion-sort-list) |
