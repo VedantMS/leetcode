@@ -72,6 +72,7 @@
 | [0575-distribute-candies](https://github.com/VedantMS/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/VedantMS/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/VedantMS/leetcode/tree/master/0598-range-addition-ii) |
+| [0705-design-hashset](https://github.com/VedantMS/leetcode/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/VedantMS/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0794-valid-tic-tac-toe-state](https://github.com/VedantMS/leetcode/tree/master/0794-valid-tic-tac-toe-state) |
@@ -187,6 +188,7 @@
 | [0525-contiguous-array](https://github.com/VedantMS/leetcode/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/VedantMS/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/VedantMS/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0705-design-hashset](https://github.com/VedantMS/leetcode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/VedantMS/leetcode/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VedantMS/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -680,6 +682,7 @@
 | [0234-palindrome-linked-list](https://github.com/VedantMS/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/VedantMS/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VedantMS/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0705-design-hashset](https://github.com/VedantMS/leetcode/tree/master/0705-design-hashset) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VedantMS/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VedantMS/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -764,6 +767,7 @@
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedantMS/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/VedantMS/leetcode/tree/master/0384-shuffle-an-array) |
+| [0705-design-hashset](https://github.com/VedantMS/leetcode/tree/master/0705-design-hashset) |
 ## Randomized
 |  |
 | ------- |
@@ -1000,6 +1004,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/VedantMS/leetcode/tree/master/0705-design-hashset) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/VedantMS/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Topological Sort
 |  |
