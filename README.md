@@ -705,6 +705,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/VedantMS/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VedantMS/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/VedantMS/leetcode/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/VedantMS/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VedantMS/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VedantMS/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/VedantMS/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -797,6 +798,7 @@
 | [0384-shuffle-an-array](https://github.com/VedantMS/leetcode/tree/master/0384-shuffle-an-array) |
 | [0677-map-sum-pairs](https://github.com/VedantMS/leetcode/tree/master/0677-map-sum-pairs) |
 | [0705-design-hashset](https://github.com/VedantMS/leetcode/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/VedantMS/leetcode/tree/master/0707-design-linked-list) |
 | [2241-design-an-atm-machine](https://github.com/VedantMS/leetcode/tree/master/2241-design-an-atm-machine) |
 ## Randomized
 |  |
