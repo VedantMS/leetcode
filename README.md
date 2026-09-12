@@ -52,6 +52,7 @@
 | [0347-top-k-frequent-elements](https://github.com/VedantMS/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VedantMS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VedantMS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/VedantMS/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/VedantMS/leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VedantMS/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedantMS/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -850,6 +851,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VedantMS/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/VedantMS/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/VedantMS/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VedantMS/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/VedantMS/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
