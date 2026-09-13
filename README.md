@@ -128,6 +128,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/VedantMS/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/VedantMS/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2718-sum-of-matrix-after-queries](https://github.com/VedantMS/leetcode/tree/master/2718-sum-of-matrix-after-queries) |
 | [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
@@ -204,6 +205,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/VedantMS/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2718-sum-of-matrix-after-queries](https://github.com/VedantMS/leetcode/tree/master/2718-sum-of-matrix-after-queries) |
 | [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VedantMS/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -315,6 +317,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/VedantMS/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/VedantMS/leetcode/tree/master/2427-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/VedantMS/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2928-distribute-candies-among-children-i](https://github.com/VedantMS/leetcode/tree/master/2928-distribute-candies-among-children-i) |
@@ -908,6 +911,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedantMS/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2427-number-of-common-factors](https://github.com/VedantMS/leetcode/tree/master/2427-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3115-maximum-prime-difference](https://github.com/VedantMS/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VedantMS/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -1032,11 +1036,13 @@
 | ------- |
 | [1447-simplified-fractions](https://github.com/VedantMS/leetcode/tree/master/1447-simplified-fractions) |
 | [2427-number-of-common-factors](https://github.com/VedantMS/leetcode/tree/master/2427-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1447-simplified-fractions](https://github.com/VedantMS/leetcode/tree/master/1447-simplified-fractions) |
 | [2427-number-of-common-factors](https://github.com/VedantMS/leetcode/tree/master/2427-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -1095,6 +1101,7 @@
 ## Primality Test
 |  |
 | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3115-maximum-prime-difference](https://github.com/VedantMS/leetcode/tree/master/3115-maximum-prime-difference) |
 ## DP on Trees
 |  |
@@ -1108,4 +1115,16 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/VedantMS/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Sieve Theory
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
