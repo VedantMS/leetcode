@@ -294,6 +294,7 @@
 | [0670-maximum-swap](https://github.com/VedantMS/leetcode/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0728-self-dividing-numbers](https://github.com/VedantMS/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/VedantMS/leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/VedantMS/leetcode/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/VedantMS/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/VedantMS/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -995,6 +996,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/VedantMS/leetcode/tree/master/0223-rectangle-area) |
+| [0836-rectangle-overlap](https://github.com/VedantMS/leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/VedantMS/leetcode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/VedantMS/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1037-valid-boomerang](https://github.com/VedantMS/leetcode/tree/master/1037-valid-boomerang) |
