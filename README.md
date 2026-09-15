@@ -88,6 +88,7 @@
 | [0912-sort-an-array](https://github.com/VedantMS/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VedantMS/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/VedantMS/leetcode/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/VedantMS/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0976-largest-perimeter-triangle](https://github.com/VedantMS/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0980-unique-paths-iii](https://github.com/VedantMS/leetcode/tree/master/0980-unique-paths-iii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/VedantMS/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -641,6 +642,7 @@
 | [0844-backspace-string-compare](https://github.com/VedantMS/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/VedantMS/leetcode/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/VedantMS/leetcode/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/VedantMS/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/VedantMS/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0999-available-captures-for-rook](https://github.com/VedantMS/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/VedantMS/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
@@ -692,6 +694,7 @@
 | [0239-sliding-window-maximum](https://github.com/VedantMS/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedantMS/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VedantMS/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/VedantMS/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -786,6 +789,7 @@
 | [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/VedantMS/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/VedantMS/leetcode/tree/master/0912-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/VedantMS/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0976-largest-perimeter-triangle](https://github.com/VedantMS/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/VedantMS/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/VedantMS/leetcode/tree/master/1122-relative-sort-array) |
