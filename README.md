@@ -306,6 +306,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/VedantMS/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/VedantMS/leetcode/tree/master/1037-valid-boomerang) |
+| [1185-day-of-the-week](https://github.com/VedantMS/leetcode/tree/master/1185-day-of-the-week) |
 | [1227-airplane-seat-assignment-probability](https://github.com/VedantMS/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1447-simplified-fractions](https://github.com/VedantMS/leetcode/tree/master/1447-simplified-fractions) |
