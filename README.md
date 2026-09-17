@@ -99,6 +99,7 @@
 | [1037-valid-boomerang](https://github.com/VedantMS/leetcode/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/VedantMS/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/VedantMS/leetcode/tree/master/1122-relative-sort-array) |
+| [1146-snapshot-array](https://github.com/VedantMS/leetcode/tree/master/1146-snapshot-array) |
 | [1219-path-with-maximum-gold](https://github.com/VedantMS/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/VedantMS/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -206,6 +207,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/VedantMS/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/VedantMS/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1122-relative-sort-array](https://github.com/VedantMS/leetcode/tree/master/1122-relative-sort-array) |
+| [1146-snapshot-array](https://github.com/VedantMS/leetcode/tree/master/1146-snapshot-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/VedantMS/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -454,6 +456,7 @@
 | [0441-arranging-coins](https://github.com/VedantMS/leetcode/tree/master/0441-arranging-coins) |
 | [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
 | [0981-time-based-key-value-store](https://github.com/VedantMS/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/VedantMS/leetcode/tree/master/1146-snapshot-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VedantMS/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
@@ -826,6 +829,7 @@
 | [0705-design-hashset](https://github.com/VedantMS/leetcode/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/VedantMS/leetcode/tree/master/0707-design-linked-list) |
 | [0981-time-based-key-value-store](https://github.com/VedantMS/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/VedantMS/leetcode/tree/master/1146-snapshot-array) |
 | [2241-design-an-atm-machine](https://github.com/VedantMS/leetcode/tree/master/2241-design-an-atm-machine) |
 ## Randomized
 |  |
@@ -1152,4 +1156,8 @@
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/VedantMS/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/VedantMS/leetcode/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
