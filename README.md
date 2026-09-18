@@ -312,6 +312,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/VedantMS/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/VedantMS/leetcode/tree/master/1037-valid-boomerang) |
+| [1175-prime-arrangements](https://github.com/VedantMS/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/VedantMS/leetcode/tree/master/1185-day-of-the-week) |
 | [1227-airplane-seat-assignment-probability](https://github.com/VedantMS/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -1133,6 +1134,7 @@
 ## Primality Test
 |  |
 | ------- |
+| [1175-prime-arrangements](https://github.com/VedantMS/leetcode/tree/master/1175-prime-arrangements) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3044-most-frequent-prime](https://github.com/VedantMS/leetcode/tree/master/3044-most-frequent-prime) |
 | [3115-maximum-prime-difference](https://github.com/VedantMS/leetcode/tree/master/3115-maximum-prime-difference) |
@@ -1155,11 +1157,13 @@
 ## Sieve Theory
 |  |
 | ------- |
+| [1175-prime-arrangements](https://github.com/VedantMS/leetcode/tree/master/1175-prime-arrangements) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3044-most-frequent-prime](https://github.com/VedantMS/leetcode/tree/master/3044-most-frequent-prime) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [1175-prime-arrangements](https://github.com/VedantMS/leetcode/tree/master/1175-prime-arrangements) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3044-most-frequent-prime](https://github.com/VedantMS/leetcode/tree/master/3044-most-frequent-prime) |
 ## Monotonic Stack
