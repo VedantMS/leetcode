@@ -4,45 +4,43 @@ public:
     static constexpr int dc[8] = {1, 1, 0, -1, -1, -1, 0, 1};
 
     int rows, cols;
+
+    bool isPrime(int num) {
+        for (int i = 2; i * i <= num; i++) {
+            if (num % i == 0) {
+                return false;
+            }
+        }
+
+        return true;
+    }
     
-    void move(int num, int r, int c, int dir, vector<vector<int>>& mat, unordered_map<int, int> &freq) {
-        num = num * 10 + mat[r][c];
+    void move(int r, int c, int dir, vector<vector<int>>& mat, unordered_map<int, int> &freq) {
+        int nr = r, nc = c;
+        int num = 0;
+        
+        while (nr < rows && nr >= 0 && nc < cols && nc >= 0) {
+            num = num * 10 + mat[nr][nc];
+            
+            if (num > 10 && (freq.contains(num) || isPrime(num))) {
+                freq[num]++;
+            }
 
-        freq[num]++;
-
-        int nr = r + dr[dir];
-        int nc = c + dc[dir];
-
-        if (nr < rows && nr >= 0 && nc < cols && nc >= 0) {
-            move(num, nr, nc, dir, mat, freq);
+            nr += dr[dir];
+            nc += dc[dir];
         }
     }
     
     int mostFrequentPrime(vector<vector<int>>& mat) {
         rows = mat.size();
         cols = mat[0].size();
-
-        int n = 1;
-
-        for (int i = 0; i < max(rows, cols); i++) {
-            n *= 10;
-        }
         
         unordered_map<int, int> freq;
-        vector<bool> prime(n, true);
 
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 for (int k = 0; k < 8; k++) {
-                    move(0, i, j, k, mat, freq);
-                }
-            }
-        }
-
-        for (int i = 2; i * i < n; i++) {
-            if (prime[i]) {
-                for (int j = i * i; j < n; j += i) {
-                    prime[j] = false;
+                    move(i, j, k, mat, freq);
                 }
             }
         }
@@ -50,11 +48,9 @@ public:
         int ans = -1, mx = 0;
 
         for (auto &[key, val] : freq) {
-            if (key > 10 && prime[key]) {
-                if (val > mx || (val == mx && key > ans)) {
-                    ans = key;
-                    mx = val;
-                }
+            if (val > mx || val == mx && key > ans) {
+                ans = key;
+                mx = val;
             }
         }
 
