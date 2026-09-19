@@ -112,6 +112,7 @@
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/VedantMS/leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1514-path-with-maximum-probability](https://github.com/VedantMS/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/VedantMS/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/VedantMS/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -487,6 +488,7 @@
 | [1267-count-servers-that-communicate](https://github.com/VedantMS/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/VedantMS/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VedantMS/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/VedantMS/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VedantMS/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -502,6 +504,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VedantMS/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1514-path-with-maximum-probability](https://github.com/VedantMS/leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/VedantMS/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/VedantMS/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VedantMS/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/VedantMS/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
@@ -1176,4 +1179,20 @@
 |  |
 | ------- |
 | [1146-snapshot-array](https://github.com/VedantMS/leetcode/tree/master/1146-snapshot-array) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/VedantMS/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/VedantMS/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/VedantMS/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/VedantMS/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
