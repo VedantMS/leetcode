@@ -712,6 +712,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/VedantMS/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/VedantMS/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedantMS/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VedantMS/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -837,6 +838,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VedantMS/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/VedantMS/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedantMS/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/VedantMS/leetcode/tree/master/0384-shuffle-an-array) |
 | [0677-map-sum-pairs](https://github.com/VedantMS/leetcode/tree/master/0677-map-sum-pairs) |
@@ -960,6 +962,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/VedantMS/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/VedantMS/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/VedantMS/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/VedantMS/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VedantMS/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/VedantMS/leetcode/tree/master/0844-backspace-string-compare) |
