@@ -154,6 +154,7 @@
 | [3115-maximum-prime-difference](https://github.com/VedantMS/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VedantMS/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/VedantMS/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VedantMS/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VedantMS/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VedantMS/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -626,6 +627,7 @@
 | [1854-maximum-population-year](https://github.com/VedantMS/leetcode/tree/master/1854-maximum-population-year) |
 | [2017-grid-game](https://github.com/VedantMS/leetcode/tree/master/2017-grid-game) |
 | [2270-number-of-ways-to-split-array](https://github.com/VedantMS/leetcode/tree/master/2270-number-of-ways-to-split-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/VedantMS/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/VedantMS/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/VedantMS/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
