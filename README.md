@@ -437,6 +437,7 @@
 | [1192-critical-connections-in-a-network](https://github.com/VedantMS/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1267-count-servers-that-communicate](https://github.com/VedantMS/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/VedantMS/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VedantMS/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VedantMS/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -509,6 +510,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/VedantMS/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/VedantMS/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/VedantMS/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VedantMS/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
@@ -560,6 +562,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/VedantMS/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/VedantMS/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/VedantMS/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VedantMS/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String
 |  |
@@ -785,6 +788,7 @@
 | [0706-design-hashmap](https://github.com/VedantMS/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/VedantMS/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VedantMS/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/VedantMS/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1670-design-front-middle-back-queue](https://github.com/VedantMS/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VedantMS/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/VedantMS/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
