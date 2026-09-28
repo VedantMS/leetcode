@@ -85,6 +85,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/VedantMS/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0794-valid-tic-tac-toe-state](https://github.com/VedantMS/leetcode/tree/master/0794-valid-tic-tac-toe-state) |
+| [0817-linked-list-components](https://github.com/VedantMS/leetcode/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/VedantMS/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/VedantMS/leetcode/tree/master/0867-transpose-matrix) |
@@ -221,6 +222,7 @@
 | [0705-design-hashset](https://github.com/VedantMS/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/VedantMS/leetcode/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/VedantMS/leetcode/tree/master/0771-jewels-and-stones) |
+| [0817-linked-list-components](https://github.com/VedantMS/leetcode/tree/master/0817-linked-list-components) |
 | [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
 | [0981-time-based-key-value-store](https://github.com/VedantMS/leetcode/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VedantMS/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -788,6 +790,7 @@
 | [0705-design-hashset](https://github.com/VedantMS/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/VedantMS/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/VedantMS/leetcode/tree/master/0707-design-linked-list) |
+| [0817-linked-list-components](https://github.com/VedantMS/leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/VedantMS/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/VedantMS/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1670-design-front-middle-back-queue](https://github.com/VedantMS/leetcode/tree/master/1670-design-front-middle-back-queue) |
