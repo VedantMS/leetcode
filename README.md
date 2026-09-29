@@ -224,6 +224,7 @@
 | [0706-design-hashmap](https://github.com/VedantMS/leetcode/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/VedantMS/leetcode/tree/master/0771-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/VedantMS/leetcode/tree/master/0817-linked-list-components) |
+| [0859-buddy-strings](https://github.com/VedantMS/leetcode/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
 | [0981-time-based-key-value-store](https://github.com/VedantMS/leetcode/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VedantMS/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -604,6 +605,7 @@
 | [0771-jewels-and-stones](https://github.com/VedantMS/leetcode/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/VedantMS/leetcode/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/VedantMS/leetcode/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/VedantMS/leetcode/tree/master/0859-buddy-strings) |
 | [0981-time-based-key-value-store](https://github.com/VedantMS/leetcode/tree/master/0981-time-based-key-value-store) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/VedantMS/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1079-letter-tile-possibilities](https://github.com/VedantMS/leetcode/tree/master/1079-letter-tile-possibilities) |
