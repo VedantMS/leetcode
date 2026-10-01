@@ -580,6 +580,7 @@
 | [0008-string-to-integer-atoi](https://github.com/VedantMS/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/VedantMS/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VedantMS/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/VedantMS/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VedantMS/leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/VedantMS/leetcode/tree/master/0067-add-binary) |
 | [0126-word-ladder-ii](https://github.com/VedantMS/leetcode/tree/master/0126-word-ladder-ii) |
@@ -1033,6 +1034,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VedantMS/leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/VedantMS/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/VedantMS/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/VedantMS/leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -1308,6 +1310,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VedantMS/leetcode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/VedantMS/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VedantMS/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VedantMS/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
