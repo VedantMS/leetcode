@@ -631,6 +631,7 @@
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/VedantMS/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2437-number-of-valid-clock-times](https://github.com/VedantMS/leetcode/tree/master/2437-number-of-valid-clock-times) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VedantMS/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VedantMS/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VedantMS/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1108,6 +1109,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/VedantMS/leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/VedantMS/leetcode/tree/master/2427-number-of-common-factors) |
+| [2437-number-of-valid-clock-times](https://github.com/VedantMS/leetcode/tree/master/2437-number-of-valid-clock-times) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2928-distribute-candies-among-children-i](https://github.com/VedantMS/leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3044-most-frequent-prime](https://github.com/VedantMS/leetcode/tree/master/3044-most-frequent-prime) |
