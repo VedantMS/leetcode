@@ -628,6 +628,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VedantMS/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/VedantMS/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VedantMS/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1844-replace-all-digits-with-characters](https://github.com/VedantMS/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1927-sum-game](https://github.com/VedantMS/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VedantMS/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
