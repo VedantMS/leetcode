@@ -355,6 +355,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/VedantMS/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1447-simplified-fractions](https://github.com/VedantMS/leetcode/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/VedantMS/leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/VedantMS/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VedantMS/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1641-count-sorted-vowel-strings](https://github.com/VedantMS/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
