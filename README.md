@@ -465,6 +465,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/VedantMS/leetcode/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/VedantMS/leetcode/tree/master/0133-clone-graph) |
+| [0301-remove-invalid-parentheses](https://github.com/VedantMS/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VedantMS/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
@@ -602,6 +603,7 @@
 | [0205-isomorphic-strings](https://github.com/VedantMS/leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/VedantMS/leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/VedantMS/leetcode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/VedantMS/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/VedantMS/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedantMS/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VedantMS/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -1099,6 +1101,7 @@
 | [0131-palindrome-partitioning](https://github.com/VedantMS/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/VedantMS/leetcode/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/VedantMS/leetcode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/VedantMS/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/VedantMS/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/VedantMS/leetcode/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/VedantMS/leetcode/tree/master/0491-non-decreasing-subsequences) |
