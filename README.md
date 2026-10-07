@@ -612,6 +612,7 @@
 | [0500-keyboard-row](https://github.com/VedantMS/leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/VedantMS/leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/VedantMS/leetcode/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/VedantMS/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/VedantMS/leetcode/tree/master/0541-reverse-string-ii) |
 | [0677-map-sum-pairs](https://github.com/VedantMS/leetcode/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/VedantMS/leetcode/tree/master/0678-valid-parenthesis-string) |
