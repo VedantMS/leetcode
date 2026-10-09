@@ -636,6 +636,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VedantMS/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/VedantMS/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1447-simplified-fractions](https://github.com/VedantMS/leetcode/tree/master/1447-simplified-fractions) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VedantMS/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VedantMS/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/VedantMS/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VedantMS/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -706,6 +707,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VedantMS/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/VedantMS/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/VedantMS/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VedantMS/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedantMS/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/VedantMS/leetcode/tree/master/1927-sum-game) |
@@ -1082,6 +1084,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/VedantMS/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VedantMS/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VedantMS/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VedantMS/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VedantMS/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/VedantMS/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2487-remove-nodes-from-linked-list](https://github.com/VedantMS/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -1361,6 +1364,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/VedantMS/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VedantMS/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VedantMS/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VedantMS/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VedantMS/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/VedantMS/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VedantMS/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
