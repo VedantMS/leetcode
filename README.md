@@ -342,6 +342,7 @@
 | [0789-escape-the-ghosts](https://github.com/VedantMS/leetcode/tree/master/0789-escape-the-ghosts) |
 | [0836-rectangle-overlap](https://github.com/VedantMS/leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/VedantMS/leetcode/tree/master/0858-mirror-reflection) |
+| [0866-prime-palindrome](https://github.com/VedantMS/leetcode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/VedantMS/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/VedantMS/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/VedantMS/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -1056,6 +1057,7 @@
 | [0204-count-primes](https://github.com/VedantMS/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/VedantMS/leetcode/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/VedantMS/leetcode/tree/master/0858-mirror-reflection) |
+| [0866-prime-palindrome](https://github.com/VedantMS/leetcode/tree/master/0866-prime-palindrome) |
 | [1447-simplified-fractions](https://github.com/VedantMS/leetcode/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/VedantMS/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/VedantMS/leetcode/tree/master/1952-three-divisors) |
@@ -1281,6 +1283,7 @@
 ## Primality Test
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/VedantMS/leetcode/tree/master/0866-prime-palindrome) |
 | [1175-prime-arrangements](https://github.com/VedantMS/leetcode/tree/master/1175-prime-arrangements) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3044-most-frequent-prime](https://github.com/VedantMS/leetcode/tree/master/3044-most-frequent-prime) |
