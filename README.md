@@ -347,6 +347,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/VedantMS/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/VedantMS/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/VedantMS/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [0991-broken-calculator](https://github.com/VedantMS/leetcode/tree/master/0991-broken-calculator) |
 | [1025-divisor-game](https://github.com/VedantMS/leetcode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/VedantMS/leetcode/tree/master/1037-valid-boomerang) |
 | [1175-prime-arrangements](https://github.com/VedantMS/leetcode/tree/master/1175-prime-arrangements) |
@@ -708,6 +709,7 @@
 | [0860-lemonade-change](https://github.com/VedantMS/leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VedantMS/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/VedantMS/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0991-broken-calculator](https://github.com/VedantMS/leetcode/tree/master/0991-broken-calculator) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/VedantMS/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VedantMS/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
