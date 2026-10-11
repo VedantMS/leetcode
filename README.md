@@ -157,6 +157,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2718-sum-of-matrix-after-queries](https://github.com/VedantMS/leetcode/tree/master/2718-sum-of-matrix-after-queries) |
 | [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VedantMS/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VedantMS/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VedantMS/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VedantMS/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1147,6 +1148,7 @@
 | [2427-number-of-common-factors](https://github.com/VedantMS/leetcode/tree/master/2427-number-of-common-factors) |
 | [2437-number-of-valid-clock-times](https://github.com/VedantMS/leetcode/tree/master/2437-number-of-valid-clock-times) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VedantMS/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2928-distribute-candies-among-children-i](https://github.com/VedantMS/leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3044-most-frequent-prime](https://github.com/VedantMS/leetcode/tree/master/3044-most-frequent-prime) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedantMS/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
