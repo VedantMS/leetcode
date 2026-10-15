@@ -621,6 +621,7 @@
 | [0257-binary-tree-paths](https://github.com/VedantMS/leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/VedantMS/leetcode/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/VedantMS/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/VedantMS/leetcode/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/VedantMS/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedantMS/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VedantMS/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -1139,6 +1140,7 @@
 | [0140-word-break-ii](https://github.com/VedantMS/leetcode/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/VedantMS/leetcode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/VedantMS/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/VedantMS/leetcode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/VedantMS/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/VedantMS/leetcode/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/VedantMS/leetcode/tree/master/0491-non-decreasing-subsequences) |
