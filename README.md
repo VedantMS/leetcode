@@ -167,6 +167,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VedantMS/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VedantMS/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VedantMS/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3028-ant-on-the-boundary](https://github.com/VedantMS/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/VedantMS/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3044-most-frequent-prime](https://github.com/VedantMS/leetcode/tree/master/3044-most-frequent-prime) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VedantMS/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -710,6 +711,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/VedantMS/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2381-shifting-letters-ii](https://github.com/VedantMS/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/VedantMS/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [3028-ant-on-the-boundary](https://github.com/VedantMS/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/VedantMS/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/VedantMS/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/VedantMS/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -785,6 +787,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/VedantMS/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/VedantMS/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3028-ant-on-the-boundary](https://github.com/VedantMS/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VedantMS/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/VedantMS/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/VedantMS/leetcode/tree/master/3498-reverse-degree-of-a-string) |
