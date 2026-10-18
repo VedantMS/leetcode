@@ -418,6 +418,7 @@
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/VedantMS/leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2396-strictly-palindromic-number](https://github.com/VedantMS/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/VedantMS/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/VedantMS/leetcode/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/VedantMS/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Bit Manipulation
 |  |
@@ -449,6 +450,7 @@
 | [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/VedantMS/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/VedantMS/leetcode/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VedantMS/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/VedantMS/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VedantMS/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -1184,6 +1186,7 @@
 | [2427-number-of-common-factors](https://github.com/VedantMS/leetcode/tree/master/2427-number-of-common-factors) |
 | [2437-number-of-valid-clock-times](https://github.com/VedantMS/leetcode/tree/master/2437-number-of-valid-clock-times) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/VedantMS/leetcode/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VedantMS/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2928-distribute-candies-among-children-i](https://github.com/VedantMS/leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3044-most-frequent-prime](https://github.com/VedantMS/leetcode/tree/master/3044-most-frequent-prime) |
