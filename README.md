@@ -146,6 +146,7 @@
 | [2017-grid-game](https://github.com/VedantMS/leetcode/tree/master/2017-grid-game) |
 | [2029-stone-game-ix](https://github.com/VedantMS/leetcode/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/VedantMS/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VedantMS/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VedantMS/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2241-design-an-atm-machine](https://github.com/VedantMS/leetcode/tree/master/2241-design-an-atm-machine) |
@@ -536,6 +537,7 @@
 | [1146-snapshot-array](https://github.com/VedantMS/leetcode/tree/master/1146-snapshot-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VedantMS/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VedantMS/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VedantMS/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/VedantMS/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VedantMS/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
@@ -964,6 +966,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedantMS/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/VedantMS/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VedantMS/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/VedantMS/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VedantMS/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
