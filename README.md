@@ -119,6 +119,7 @@
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/VedantMS/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/VedantMS/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1314-matrix-block-sum](https://github.com/VedantMS/leetcode/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VedantMS/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedantMS/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -303,6 +304,7 @@
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/VedantMS/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/VedantMS/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1314-matrix-block-sum](https://github.com/VedantMS/leetcode/tree/master/1314-matrix-block-sum) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VedantMS/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/VedantMS/leetcode/tree/master/1861-rotating-the-box) |
@@ -712,6 +714,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/VedantMS/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0848-shifting-letters](https://github.com/VedantMS/leetcode/tree/master/0848-shifting-letters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1314-matrix-block-sum](https://github.com/VedantMS/leetcode/tree/master/1314-matrix-block-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/VedantMS/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/VedantMS/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VedantMS/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
