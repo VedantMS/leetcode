@@ -122,6 +122,7 @@
 | [1314-matrix-block-sum](https://github.com/VedantMS/leetcode/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VedantMS/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/VedantMS/leetcode/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedantMS/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VedantMS/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/VedantMS/leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
