@@ -397,6 +397,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/VedantMS/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/VedantMS/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/VedantMS/leetcode/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/VedantMS/leetcode/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/VedantMS/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -690,6 +691,7 @@
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/VedantMS/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2381-shifting-letters-ii](https://github.com/VedantMS/leetcode/tree/master/2381-shifting-letters-ii) |
+| [2409-count-days-spent-together](https://github.com/VedantMS/leetcode/tree/master/2409-count-days-spent-together) |
 | [2437-number-of-valid-clock-times](https://github.com/VedantMS/leetcode/tree/master/2437-number-of-valid-clock-times) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VedantMS/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VedantMS/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
