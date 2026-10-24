@@ -35,6 +35,7 @@
 | [0137-single-number-ii](https://github.com/VedantMS/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/VedantMS/leetcode/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/VedantMS/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VedantMS/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VedantMS/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/VedantMS/leetcode/tree/master/0164-maximum-gap) |
@@ -840,6 +841,7 @@
 | [0131-palindrome-partitioning](https://github.com/VedantMS/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/VedantMS/leetcode/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/VedantMS/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/VedantMS/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/VedantMS/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/VedantMS/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
