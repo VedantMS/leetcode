@@ -89,6 +89,7 @@
 | [0729-my-calendar-i](https://github.com/VedantMS/leetcode/tree/master/0729-my-calendar-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/VedantMS/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0781-rabbits-in-forest](https://github.com/VedantMS/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0789-escape-the-ghosts](https://github.com/VedantMS/leetcode/tree/master/0789-escape-the-ghosts) |
 | [0794-valid-tic-tac-toe-state](https://github.com/VedantMS/leetcode/tree/master/0794-valid-tic-tac-toe-state) |
 | [0817-linked-list-components](https://github.com/VedantMS/leetcode/tree/master/0817-linked-list-components) |
@@ -251,6 +252,7 @@
 | [0705-design-hashset](https://github.com/VedantMS/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/VedantMS/leetcode/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/VedantMS/leetcode/tree/master/0771-jewels-and-stones) |
+| [0781-rabbits-in-forest](https://github.com/VedantMS/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0817-linked-list-components](https://github.com/VedantMS/leetcode/tree/master/0817-linked-list-components) |
 | [0859-buddy-strings](https://github.com/VedantMS/leetcode/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
@@ -367,6 +369,7 @@
 | [0670-maximum-swap](https://github.com/VedantMS/leetcode/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0728-self-dividing-numbers](https://github.com/VedantMS/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0781-rabbits-in-forest](https://github.com/VedantMS/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0789-escape-the-ghosts](https://github.com/VedantMS/leetcode/tree/master/0789-escape-the-ghosts) |
 | [0836-rectangle-overlap](https://github.com/VedantMS/leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/VedantMS/leetcode/tree/master/0858-mirror-reflection) |
@@ -759,6 +762,7 @@
 | [0611-valid-triangle-number](https://github.com/VedantMS/leetcode/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/VedantMS/leetcode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/VedantMS/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0781-rabbits-in-forest](https://github.com/VedantMS/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/VedantMS/leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VedantMS/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/VedantMS/leetcode/tree/master/0976-largest-perimeter-triangle) |
