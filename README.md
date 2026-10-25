@@ -124,6 +124,7 @@
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/VedantMS/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/VedantMS/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/VedantMS/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1314-matrix-block-sum](https://github.com/VedantMS/leetcode/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VedantMS/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -262,6 +263,7 @@
 | [1122-relative-sort-array](https://github.com/VedantMS/leetcode/tree/master/1122-relative-sort-array) |
 | [1146-snapshot-array](https://github.com/VedantMS/leetcode/tree/master/1146-snapshot-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/VedantMS/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/VedantMS/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VedantMS/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -768,6 +770,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/VedantMS/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0991-broken-calculator](https://github.com/VedantMS/leetcode/tree/master/0991-broken-calculator) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/VedantMS/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/VedantMS/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VedantMS/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedantMS/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
