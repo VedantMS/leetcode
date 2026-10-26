@@ -139,6 +139,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/VedantMS/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VedantMS/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1670-design-front-middle-back-queue](https://github.com/VedantMS/leetcode/tree/master/1670-design-front-middle-back-queue) |
+| [1672-richest-customer-wealth](https://github.com/VedantMS/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VedantMS/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -319,6 +320,7 @@
 | [1314-matrix-block-sum](https://github.com/VedantMS/leetcode/tree/master/1314-matrix-block-sum) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VedantMS/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/VedantMS/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/VedantMS/leetcode/tree/master/1861-rotating-the-box) |
 | [2017-grid-game](https://github.com/VedantMS/leetcode/tree/master/2017-grid-game) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VedantMS/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
