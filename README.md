@@ -426,6 +426,7 @@
 | [3044-most-frequent-prime](https://github.com/VedantMS/leetcode/tree/master/3044-most-frequent-prime) |
 | [3115-maximum-prime-difference](https://github.com/VedantMS/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedantMS/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedantMS/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VedantMS/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/VedantMS/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VedantMS/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -715,6 +716,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VedantMS/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VedantMS/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/VedantMS/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedantMS/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/VedantMS/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VedantMS/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/VedantMS/leetcode/tree/master/3527-find-the-most-common-response) |
@@ -844,6 +846,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3028-ant-on-the-boundary](https://github.com/VedantMS/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VedantMS/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedantMS/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/VedantMS/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/VedantMS/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VedantMS/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1165,6 +1168,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VedantMS/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3044-most-frequent-prime](https://github.com/VedantMS/leetcode/tree/master/3044-most-frequent-prime) |
 | [3115-maximum-prime-difference](https://github.com/VedantMS/leetcode/tree/master/3115-maximum-prime-difference) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedantMS/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VedantMS/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VedantMS/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -1283,6 +1287,7 @@
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2928-distribute-candies-among-children-i](https://github.com/VedantMS/leetcode/tree/master/2928-distribute-candies-among-children-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedantMS/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bitmask
 |  |
 | ------- |
