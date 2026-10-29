@@ -134,6 +134,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedantMS/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VedantMS/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/VedantMS/leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/VedantMS/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1514-path-with-maximum-probability](https://github.com/VedantMS/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/VedantMS/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -565,6 +566,7 @@
 | [0981-time-based-key-value-store](https://github.com/VedantMS/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/VedantMS/leetcode/tree/master/1146-snapshot-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VedantMS/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/VedantMS/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VedantMS/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VedantMS/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/VedantMS/leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -747,6 +749,7 @@
 | [1314-matrix-block-sum](https://github.com/VedantMS/leetcode/tree/master/1314-matrix-block-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/VedantMS/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/VedantMS/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/VedantMS/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VedantMS/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VedantMS/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1854-maximum-population-year](https://github.com/VedantMS/leetcode/tree/master/1854-maximum-population-year) |
@@ -1006,6 +1009,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VedantMS/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedantMS/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/VedantMS/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/VedantMS/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/VedantMS/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedantMS/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -1086,6 +1090,7 @@
 | [0844-backspace-string-compare](https://github.com/VedantMS/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/VedantMS/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/VedantMS/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/VedantMS/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1861-rotating-the-box](https://github.com/VedantMS/leetcode/tree/master/1861-rotating-the-box) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VedantMS/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2396-strictly-palindromic-number](https://github.com/VedantMS/leetcode/tree/master/2396-strictly-palindromic-number) |
