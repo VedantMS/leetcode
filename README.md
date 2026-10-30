@@ -626,6 +626,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VedantMS/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/VedantMS/leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/VedantMS/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VedantMS/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Tree
 |  |
 | ------- |
@@ -721,6 +722,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VedantMS/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/VedantMS/leetcode/tree/master/3527-find-the-most-common-response) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/VedantMS/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VedantMS/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1118,6 +1120,7 @@
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/VedantMS/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/VedantMS/leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VedantMS/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1129,6 +1132,7 @@
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/VedantMS/leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/VedantMS/leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VedantMS/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting
 |  |
 | ------- |
