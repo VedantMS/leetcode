@@ -420,6 +420,7 @@
 | [2409-count-days-spent-together](https://github.com/VedantMS/leetcode/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/VedantMS/leetcode/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/VedantMS/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/VedantMS/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
