@@ -65,6 +65,7 @@
 | [0414-third-maximum-number](https://github.com/VedantMS/leetcode/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/VedantMS/leetcode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VedantMS/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/VedantMS/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/VedantMS/leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/VedantMS/leetcode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/VedantMS/leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -372,6 +373,7 @@
 | [0415-add-strings](https://github.com/VedantMS/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/VedantMS/leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/VedantMS/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/VedantMS/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/VedantMS/leetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/VedantMS/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/VedantMS/leetcode/tree/master/0504-base-7) |
