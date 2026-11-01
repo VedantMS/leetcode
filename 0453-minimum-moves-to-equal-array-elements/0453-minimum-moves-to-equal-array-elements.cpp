@@ -1,0 +1,12 @@
+class Solution {
+public:
+    int minMoves(vector<int>& nums) {
+        int mn = ranges::min(nums), ans = 0;
+
+        for (int num : nums) {
+            ans += num - mn;
+        }
+
+        return ans;
+    }
+};
