@@ -95,6 +95,7 @@
 | [0781-rabbits-in-forest](https://github.com/VedantMS/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0789-escape-the-ghosts](https://github.com/VedantMS/leetcode/tree/master/0789-escape-the-ghosts) |
 | [0794-valid-tic-tac-toe-state](https://github.com/VedantMS/leetcode/tree/master/0794-valid-tic-tac-toe-state) |
+| [0804-unique-morse-code-words](https://github.com/VedantMS/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0817-linked-list-components](https://github.com/VedantMS/leetcode/tree/master/0817-linked-list-components) |
 | [0827-making-a-large-island](https://github.com/VedantMS/leetcode/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
@@ -266,6 +267,7 @@
 | [0706-design-hashmap](https://github.com/VedantMS/leetcode/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/VedantMS/leetcode/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/VedantMS/leetcode/tree/master/0781-rabbits-in-forest) |
+| [0804-unique-morse-code-words](https://github.com/VedantMS/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0817-linked-list-components](https://github.com/VedantMS/leetcode/tree/master/0817-linked-list-components) |
 | [0859-buddy-strings](https://github.com/VedantMS/leetcode/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
@@ -707,6 +709,7 @@
 | [0692-top-k-frequent-words](https://github.com/VedantMS/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/VedantMS/leetcode/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/VedantMS/leetcode/tree/master/0784-letter-case-permutation) |
+| [0804-unique-morse-code-words](https://github.com/VedantMS/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/VedantMS/leetcode/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/VedantMS/leetcode/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/VedantMS/leetcode/tree/master/0856-score-of-parentheses) |
