@@ -90,6 +90,7 @@
 | [0705-design-hashset](https://github.com/VedantMS/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/VedantMS/leetcode/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/VedantMS/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0720-longest-word-in-dictionary](https://github.com/VedantMS/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0729-my-calendar-i](https://github.com/VedantMS/leetcode/tree/master/0729-my-calendar-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/VedantMS/leetcode/tree/master/0766-toeplitz-matrix) |
@@ -270,6 +271,7 @@
 | [0697-degree-of-an-array](https://github.com/VedantMS/leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/VedantMS/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/VedantMS/leetcode/tree/master/0706-design-hashmap) |
+| [0720-longest-word-in-dictionary](https://github.com/VedantMS/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/VedantMS/leetcode/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/VedantMS/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0804-unique-morse-code-words](https://github.com/VedantMS/leetcode/tree/master/0804-unique-morse-code-words) |
@@ -718,6 +720,7 @@
 | [0677-map-sum-pairs](https://github.com/VedantMS/leetcode/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/VedantMS/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/VedantMS/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/VedantMS/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/VedantMS/leetcode/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/VedantMS/leetcode/tree/master/0784-letter-case-permutation) |
 | [0804-unique-morse-code-words](https://github.com/VedantMS/leetcode/tree/master/0804-unique-morse-code-words) |
@@ -1003,6 +1006,7 @@
 | [0386-lexicographical-numbers](https://github.com/VedantMS/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0677-map-sum-pairs](https://github.com/VedantMS/leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/VedantMS/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/VedantMS/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/VedantMS/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VedantMS/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
@@ -1048,6 +1052,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/VedantMS/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/VedantMS/leetcode/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/VedantMS/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/VedantMS/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/VedantMS/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/VedantMS/leetcode/tree/master/0912-sort-an-array) |
