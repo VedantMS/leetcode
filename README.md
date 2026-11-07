@@ -218,6 +218,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VedantMS/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/VedantMS/leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VedantMS/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3866-first-unique-even-element](https://github.com/VedantMS/leetcode/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VedantMS/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VedantMS/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/VedantMS/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -309,6 +310,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VedantMS/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VedantMS/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/VedantMS/leetcode/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/VedantMS/leetcode/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
 | ------- |
@@ -1200,6 +1202,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VedantMS/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3044-most-frequent-prime](https://github.com/VedantMS/leetcode/tree/master/3044-most-frequent-prime) |
 | [3527-find-the-most-common-response](https://github.com/VedantMS/leetcode/tree/master/3527-find-the-most-common-response) |
+| [3866-first-unique-even-element](https://github.com/VedantMS/leetcode/tree/master/3866-first-unique-even-element) |
 ## Number Theory
 |  |
 | ------- |
