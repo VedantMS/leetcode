@@ -112,6 +112,7 @@
 | [0912-sort-an-array](https://github.com/VedantMS/leetcode/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VedantMS/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VedantMS/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0929-unique-email-addresses](https://github.com/VedantMS/leetcode/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/VedantMS/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0949-largest-time-for-given-digits](https://github.com/VedantMS/leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/VedantMS/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -279,6 +280,7 @@
 | [0859-buddy-strings](https://github.com/VedantMS/leetcode/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VedantMS/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/VedantMS/leetcode/tree/master/0929-unique-email-addresses) |
 | [0981-time-based-key-value-store](https://github.com/VedantMS/leetcode/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VedantMS/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/VedantMS/leetcode/tree/master/1079-letter-tile-possibilities) |
@@ -729,6 +731,7 @@
 | [0856-score-of-parentheses](https://github.com/VedantMS/leetcode/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/VedantMS/leetcode/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VedantMS/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0929-unique-email-addresses](https://github.com/VedantMS/leetcode/tree/master/0929-unique-email-addresses) |
 | [0949-largest-time-for-given-digits](https://github.com/VedantMS/leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0981-time-based-key-value-store](https://github.com/VedantMS/leetcode/tree/master/0981-time-based-key-value-store) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/VedantMS/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
