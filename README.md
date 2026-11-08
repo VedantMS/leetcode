@@ -130,6 +130,7 @@
 | [1219-path-with-maximum-gold](https://github.com/VedantMS/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/VedantMS/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/VedantMS/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/VedantMS/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/VedantMS/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/VedantMS/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -539,6 +540,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/VedantMS/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/VedantMS/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1192-critical-connections-in-a-network](https://github.com/VedantMS/leetcode/tree/master/1192-critical-connections-in-a-network) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/VedantMS/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1267-count-servers-that-communicate](https://github.com/VedantMS/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/VedantMS/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/VedantMS/leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -739,6 +741,7 @@
 | [1079-letter-tile-possibilities](https://github.com/VedantMS/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VedantMS/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VedantMS/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/VedantMS/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/VedantMS/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1447-simplified-fractions](https://github.com/VedantMS/leetcode/tree/master/1447-simplified-fractions) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VedantMS/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -1010,6 +1013,7 @@
 | [0677-map-sum-pairs](https://github.com/VedantMS/leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/VedantMS/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/VedantMS/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/VedantMS/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/VedantMS/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VedantMS/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
