@@ -217,6 +217,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/VedantMS/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/VedantMS/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VedantMS/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/VedantMS/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VedantMS/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VedantMS/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VedantMS/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -942,6 +943,7 @@
 | [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VedantMS/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3693-climbing-stairs-ii](https://github.com/VedantMS/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedantMS/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Queue
 |  |
