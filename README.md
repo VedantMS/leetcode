@@ -193,6 +193,7 @@
 | [2848-points-that-intersect-with-cars](https://github.com/VedantMS/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VedantMS/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VedantMS/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/VedantMS/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VedantMS/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VedantMS/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VedantMS/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -305,6 +306,7 @@
 | [2748-number-of-beautiful-pairs](https://github.com/VedantMS/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2848-points-that-intersect-with-cars](https://github.com/VedantMS/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VedantMS/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/VedantMS/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VedantMS/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VedantMS/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VedantMS/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -522,6 +524,7 @@
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/VedantMS/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/VedantMS/leetcode/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/VedantMS/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VedantMS/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/VedantMS/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/VedantMS/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
@@ -792,6 +795,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VedantMS/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VedantMS/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/VedantMS/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VedantMS/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/VedantMS/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
@@ -1025,6 +1029,7 @@
 | [0692-top-k-frequent-words](https://github.com/VedantMS/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/VedantMS/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/VedantMS/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/VedantMS/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/VedantMS/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VedantMS/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
