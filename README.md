@@ -275,6 +275,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/VedantMS/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/VedantMS/leetcode/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VedantMS/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0676-implement-magic-dictionary](https://github.com/VedantMS/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/VedantMS/leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/VedantMS/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/VedantMS/leetcode/tree/master/0697-degree-of-an-array) |
@@ -546,6 +547,7 @@
 | [0563-binary-tree-tilt](https://github.com/VedantMS/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VedantMS/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0676-implement-magic-dictionary](https://github.com/VedantMS/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VedantMS/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/VedantMS/leetcode/tree/master/0827-making-a-large-island) |
@@ -737,6 +739,7 @@
 | [0541-reverse-string-ii](https://github.com/VedantMS/leetcode/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/VedantMS/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/VedantMS/leetcode/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/VedantMS/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/VedantMS/leetcode/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/VedantMS/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/VedantMS/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -1030,6 +1033,7 @@
 | [0212-word-search-ii](https://github.com/VedantMS/leetcode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/VedantMS/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0648-replace-words](https://github.com/VedantMS/leetcode/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/VedantMS/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/VedantMS/leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/VedantMS/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/VedantMS/leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -1122,6 +1126,7 @@
 | [0307-range-sum-query-mutable](https://github.com/VedantMS/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedantMS/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/VedantMS/leetcode/tree/master/0384-shuffle-an-array) |
+| [0676-implement-magic-dictionary](https://github.com/VedantMS/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/VedantMS/leetcode/tree/master/0677-map-sum-pairs) |
 | [0705-design-hashset](https://github.com/VedantMS/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/VedantMS/leetcode/tree/master/0706-design-hashmap) |
