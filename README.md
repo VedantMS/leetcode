@@ -101,6 +101,7 @@
 | [0794-valid-tic-tac-toe-state](https://github.com/VedantMS/leetcode/tree/master/0794-valid-tic-tac-toe-state) |
 | [0804-unique-morse-code-words](https://github.com/VedantMS/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0817-linked-list-components](https://github.com/VedantMS/leetcode/tree/master/0817-linked-list-components) |
+| [0820-short-encoding-of-words](https://github.com/VedantMS/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0827-making-a-large-island](https://github.com/VedantMS/leetcode/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/VedantMS/leetcode/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/VedantMS/leetcode/tree/master/0848-shifting-letters) |
@@ -287,6 +288,7 @@
 | [0781-rabbits-in-forest](https://github.com/VedantMS/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0804-unique-morse-code-words](https://github.com/VedantMS/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0817-linked-list-components](https://github.com/VedantMS/leetcode/tree/master/0817-linked-list-components) |
+| [0820-short-encoding-of-words](https://github.com/VedantMS/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0859-buddy-strings](https://github.com/VedantMS/leetcode/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/VedantMS/leetcode/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VedantMS/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -749,6 +751,7 @@
 | [0771-jewels-and-stones](https://github.com/VedantMS/leetcode/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/VedantMS/leetcode/tree/master/0784-letter-case-permutation) |
 | [0804-unique-morse-code-words](https://github.com/VedantMS/leetcode/tree/master/0804-unique-morse-code-words) |
+| [0820-short-encoding-of-words](https://github.com/VedantMS/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0844-backspace-string-compare](https://github.com/VedantMS/leetcode/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/VedantMS/leetcode/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/VedantMS/leetcode/tree/master/0856-score-of-parentheses) |
@@ -1039,6 +1042,7 @@
 | [0677-map-sum-pairs](https://github.com/VedantMS/leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/VedantMS/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/VedantMS/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0820-short-encoding-of-words](https://github.com/VedantMS/leetcode/tree/master/0820-short-encoding-of-words) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/VedantMS/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/VedantMS/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/VedantMS/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
