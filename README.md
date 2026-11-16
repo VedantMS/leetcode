@@ -521,6 +521,7 @@
 | [0287-find-the-duplicate-number](https://github.com/VedantMS/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/VedantMS/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/VedantMS/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0397-integer-replacement](https://github.com/VedantMS/leetcode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/VedantMS/leetcode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VedantMS/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/VedantMS/leetcode/tree/master/0461-hamming-distance) |
@@ -855,6 +856,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/VedantMS/leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/VedantMS/leetcode/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/VedantMS/leetcode/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/VedantMS/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/VedantMS/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/VedantMS/leetcode/tree/master/0561-array-partition) |
@@ -958,6 +960,7 @@
 | [0343-integer-break](https://github.com/VedantMS/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/VedantMS/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/VedantMS/leetcode/tree/master/0377-combination-sum-iv) |
+| [0397-integer-replacement](https://github.com/VedantMS/leetcode/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/VedantMS/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/VedantMS/leetcode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/VedantMS/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -1068,6 +1071,7 @@
 | [0070-climbing-stairs](https://github.com/VedantMS/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/VedantMS/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/VedantMS/leetcode/tree/master/0140-word-break-ii) |
+| [0397-integer-replacement](https://github.com/VedantMS/leetcode/tree/master/0397-integer-replacement) |
 ## Binary Search Tree
 |  |
 | ------- |
