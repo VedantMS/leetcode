@@ -443,6 +443,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/VedantMS/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/VedantMS/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VedantMS/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1399-count-largest-group](https://github.com/VedantMS/leetcode/tree/master/1399-count-largest-group) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VedantMS/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1447-simplified-fractions](https://github.com/VedantMS/leetcode/tree/master/1447-simplified-fractions) |
@@ -1021,6 +1022,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/VedantMS/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/VedantMS/leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/VedantMS/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VedantMS/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1367-linked-list-in-binary-tree](https://github.com/VedantMS/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1670-design-front-middle-back-queue](https://github.com/VedantMS/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VedantMS/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
