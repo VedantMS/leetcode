@@ -468,6 +468,7 @@
 | [2409-count-days-spent-together](https://github.com/VedantMS/leetcode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/VedantMS/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/VedantMS/leetcode/tree/master/2427-number-of-common-factors) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/VedantMS/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/VedantMS/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/VedantMS/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -1416,6 +1417,7 @@
 | [1037-valid-boomerang](https://github.com/VedantMS/leetcode/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/VedantMS/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VedantMS/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/VedantMS/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Combinatorics
 |  |
 | ------- |
