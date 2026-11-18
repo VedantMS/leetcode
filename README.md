@@ -126,6 +126,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/VedantMS/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VedantMS/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0999-available-captures-for-rook](https://github.com/VedantMS/leetcode/tree/master/0999-available-captures-for-rook) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/VedantMS/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1030-matrix-cells-in-distance-order](https://github.com/VedantMS/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/VedantMS/leetcode/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/VedantMS/leetcode/tree/master/1051-height-checker) |
@@ -874,6 +875,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VedantMS/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/VedantMS/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0991-broken-calculator](https://github.com/VedantMS/leetcode/tree/master/0991-broken-calculator) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/VedantMS/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/VedantMS/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/VedantMS/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VedantMS/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
