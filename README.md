@@ -801,6 +801,7 @@
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2063-vowels-of-all-substrings](https://github.com/VedantMS/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/VedantMS/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/VedantMS/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VedantMS/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2381-shifting-letters-ii](https://github.com/VedantMS/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2409-count-days-spent-together](https://github.com/VedantMS/leetcode/tree/master/2409-count-days-spent-together) |
