@@ -152,6 +152,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/VedantMS/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/VedantMS/leetcode/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VedantMS/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1436-destination-city](https://github.com/VedantMS/leetcode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedantMS/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VedantMS/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/VedantMS/leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -317,6 +318,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/VedantMS/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1399-count-largest-group](https://github.com/VedantMS/leetcode/tree/master/1399-count-largest-group) |
+| [1436-destination-city](https://github.com/VedantMS/leetcode/tree/master/1436-destination-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/VedantMS/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VedantMS/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VedantMS/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -795,6 +797,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VedantMS/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/VedantMS/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/VedantMS/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1436-destination-city](https://github.com/VedantMS/leetcode/tree/master/1436-destination-city) |
 | [1447-simplified-fractions](https://github.com/VedantMS/leetcode/tree/master/1447-simplified-fractions) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VedantMS/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VedantMS/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
