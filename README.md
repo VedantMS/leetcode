@@ -149,6 +149,7 @@
 | [1314-matrix-block-sum](https://github.com/VedantMS/leetcode/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VedantMS/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VedantMS/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/VedantMS/leetcode/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VedantMS/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedantMS/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -457,6 +458,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/VedantMS/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VedantMS/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VedantMS/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1399-count-largest-group](https://github.com/VedantMS/leetcode/tree/master/1399-count-largest-group) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VedantMS/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1447-simplified-fractions](https://github.com/VedantMS/leetcode/tree/master/1447-simplified-fractions) |
@@ -854,6 +856,7 @@
 | [1109-corporate-flight-bookings](https://github.com/VedantMS/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/VedantMS/leetcode/tree/master/1314-matrix-block-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VedantMS/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/VedantMS/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/VedantMS/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/VedantMS/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -1193,6 +1196,7 @@
 | [0729-my-calendar-i](https://github.com/VedantMS/leetcode/tree/master/0729-my-calendar-i) |
 | [0981-time-based-key-value-store](https://github.com/VedantMS/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/VedantMS/leetcode/tree/master/1146-snapshot-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VedantMS/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1670-design-front-middle-back-queue](https://github.com/VedantMS/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [2241-design-an-atm-machine](https://github.com/VedantMS/leetcode/tree/master/2241-design-an-atm-machine) |
 ## Randomized
@@ -1620,6 +1624,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/VedantMS/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1670-design-front-middle-back-queue](https://github.com/VedantMS/leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Segment Tree
 |  |
