@@ -396,6 +396,7 @@
 | [0007-reverse-integer](https://github.com/VedantMS/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/VedantMS/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/VedantMS/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/VedantMS/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/VedantMS/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/VedantMS/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VedantMS/leetcode/tree/master/0069-sqrtx) |
@@ -739,6 +740,7 @@
 | [0020-valid-parentheses](https://github.com/VedantMS/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VedantMS/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/VedantMS/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/VedantMS/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/VedantMS/leetcode/tree/master/0067-add-binary) |
 | [0126-word-ladder-ii](https://github.com/VedantMS/leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/VedantMS/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -936,6 +938,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/VedantMS/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/VedantMS/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/VedantMS/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/VedantMS/leetcode/tree/master/0067-add-binary) |
