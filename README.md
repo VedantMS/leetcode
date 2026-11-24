@@ -190,6 +190,7 @@
 | [2256-minimum-average-difference](https://github.com/VedantMS/leetcode/tree/master/2256-minimum-average-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VedantMS/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2270-number-of-ways-to-split-array](https://github.com/VedantMS/leetcode/tree/master/2270-number-of-ways-to-split-array) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/VedantMS/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2305-fair-distribution-of-cookies](https://github.com/VedantMS/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/VedantMS/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2381-shifting-letters-ii](https://github.com/VedantMS/leetcode/tree/master/2381-shifting-letters-ii) |
@@ -484,6 +485,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/VedantMS/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/VedantMS/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/VedantMS/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2396-strictly-palindromic-number](https://github.com/VedantMS/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/VedantMS/leetcode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/VedantMS/leetcode/tree/master/2413-smallest-even-multiple) |
@@ -1175,6 +1177,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedantMS/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/VedantMS/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VedantMS/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/VedantMS/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/VedantMS/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/VedantMS/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2708-maximum-strength-of-a-group](https://github.com/VedantMS/leetcode/tree/master/2708-maximum-strength-of-a-group) |
@@ -1335,6 +1338,7 @@
 | [1952-three-divisors](https://github.com/VedantMS/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedantMS/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VedantMS/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/VedantMS/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2413-smallest-even-multiple](https://github.com/VedantMS/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/VedantMS/leetcode/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/VedantMS/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -1461,6 +1465,7 @@
 | [1037-valid-boomerang](https://github.com/VedantMS/leetcode/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/VedantMS/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VedantMS/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/VedantMS/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/VedantMS/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Combinatorics
 |  |
