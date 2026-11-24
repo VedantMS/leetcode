@@ -223,6 +223,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedantMS/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/VedantMS/leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/VedantMS/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VedantMS/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/VedantMS/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/VedantMS/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VedantMS/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -501,6 +502,7 @@
 | [3044-most-frequent-prime](https://github.com/VedantMS/leetcode/tree/master/3044-most-frequent-prime) |
 | [3115-maximum-prime-difference](https://github.com/VedantMS/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedantMS/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VedantMS/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/VedantMS/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedantMS/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VedantMS/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -848,6 +850,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/VedantMS/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VedantMS/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/VedantMS/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VedantMS/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1340,6 +1343,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VedantMS/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3044-most-frequent-prime](https://github.com/VedantMS/leetcode/tree/master/3044-most-frequent-prime) |
 | [3115-maximum-prime-difference](https://github.com/VedantMS/leetcode/tree/master/3115-maximum-prime-difference) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VedantMS/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedantMS/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VedantMS/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VedantMS/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1426,6 +1430,7 @@
 | [2928-distribute-candies-among-children-i](https://github.com/VedantMS/leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3044-most-frequent-prime](https://github.com/VedantMS/leetcode/tree/master/3044-most-frequent-prime) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedantMS/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VedantMS/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VedantMS/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VedantMS/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/VedantMS/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
