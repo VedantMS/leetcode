@@ -146,6 +146,7 @@
 | [1260-shift-2d-grid](https://github.com/VedantMS/leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/VedantMS/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/VedantMS/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VedantMS/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1314-matrix-block-sum](https://github.com/VedantMS/leetcode/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VedantMS/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -465,6 +466,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/VedantMS/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/VedantMS/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VedantMS/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VedantMS/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1352-product-of-the-last-k-numbers](https://github.com/VedantMS/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1399-count-largest-group](https://github.com/VedantMS/leetcode/tree/master/1399-count-largest-group) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VedantMS/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
