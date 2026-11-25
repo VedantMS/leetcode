@@ -325,6 +325,7 @@
 | [1436-destination-city](https://github.com/VedantMS/leetcode/tree/master/1436-destination-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/VedantMS/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VedantMS/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/VedantMS/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VedantMS/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/VedantMS/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VedantMS/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -476,6 +477,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VedantMS/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VedantMS/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1641-count-sorted-vowel-strings](https://github.com/VedantMS/leetcode/tree/master/1641-count-sorted-vowel-strings) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/VedantMS/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VedantMS/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VedantMS/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VedantMS/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -1318,6 +1320,7 @@
 | [1079-letter-tile-possibilities](https://github.com/VedantMS/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1267-count-servers-that-communicate](https://github.com/VedantMS/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1399-count-largest-group](https://github.com/VedantMS/leetcode/tree/master/1399-count-largest-group) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/VedantMS/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1854-maximum-population-year](https://github.com/VedantMS/leetcode/tree/master/1854-maximum-population-year) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VedantMS/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/VedantMS/leetcode/tree/master/2029-stone-game-ix) |
