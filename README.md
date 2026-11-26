@@ -508,6 +508,7 @@
 | [3044-most-frequent-prime](https://github.com/VedantMS/leetcode/tree/master/3044-most-frequent-prime) |
 | [3115-maximum-prime-difference](https://github.com/VedantMS/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VedantMS/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/VedantMS/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VedantMS/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/VedantMS/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedantMS/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -982,6 +983,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VedantMS/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3028-ant-on-the-boundary](https://github.com/VedantMS/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VedantMS/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/VedantMS/leetcode/tree/master/3360-stone-removal-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VedantMS/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/VedantMS/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/VedantMS/leetcode/tree/master/3498-reverse-degree-of-a-string) |
