@@ -583,6 +583,7 @@
 | [0133-clone-graph](https://github.com/VedantMS/leetcode/tree/master/0133-clone-graph) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/VedantMS/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/VedantMS/leetcode/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/VedantMS/leetcode/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/VedantMS/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/VedantMS/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/VedantMS/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -617,6 +618,7 @@
 | [0126-word-ladder-ii](https://github.com/VedantMS/leetcode/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/VedantMS/leetcode/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/VedantMS/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/VedantMS/leetcode/tree/master/0310-minimum-height-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VedantMS/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0672-bulb-switcher-ii](https://github.com/VedantMS/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
@@ -704,6 +706,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/VedantMS/leetcode/tree/master/0133-clone-graph) |
+| [0310-minimum-height-trees](https://github.com/VedantMS/leetcode/tree/master/0310-minimum-height-trees) |
 | [0743-network-delay-time](https://github.com/VedantMS/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VedantMS/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/VedantMS/leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
@@ -1551,6 +1554,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/VedantMS/leetcode/tree/master/0310-minimum-height-trees) |
 | [1462-course-schedule-iv](https://github.com/VedantMS/leetcode/tree/master/1462-course-schedule-iv) |
 | [2360-longest-cycle-in-a-graph](https://github.com/VedantMS/leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
